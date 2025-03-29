@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '434153017835'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'         |'VALUE'       |'MAXINV'               = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                                                       |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |'AUTOMOTIVE'    |'SAP_STATUS'    |'DATASHEET_URL'                                                                              |'EST_STOCK_STATUS'           |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+'SMT'  		|  'SW_434153017835'  		|  '434153017835'  		|  'EH111000004113'(!) = '434153017835'  	|  'WURTH ELECTRONICS INC'  	|  'N/A'  	|  'SWITCH; SPST; SMT; 12V; 0.05A;WS-TASV J-BEND TACT SWITCH; RCONTACT=0.1 OHM; RINSULATION=100M OHM'  	|  '+12V'  	|  '-40 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000004113'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($0.5600)'
+
+END_PART
+
+END.

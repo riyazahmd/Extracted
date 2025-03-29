@@ -1,0 +1,150 @@
+
+
+    Cadence Design Systems, Inc.
+    Bomhdl 17.4-2019 S012 (3898062) 10/18/2020
+    Copyright 2011 Cadence Design Systems, Inc, Cadence Design Systems, Inc.
+
+    Run on Thu Nov 26 12:58:19 2020
+
+
+*****************************
+*  Processing project file  *
+*****************************
+
+    DESIGN_LIBRARY 'max86176_wrist_evkit_d'
+    DESIGN_NAME 'max86176_wrist_evkit_d'
+    VIEW_SCHEMATIC 'sch_1'
+    VIEW_PACKAGER 'packaged'
+    VIEW_VARIANT 'variant'
+    VIEW_BOM ''
+    VIEW_CONFIG_PHYSICAL 'cfg_package'
+    PPT 'C:\Allegrolib\MML\Allegrolib\site\..\mml_worklib\mechanical'
+    USE_LIBRARY_PPT 'on'
+    MERGE_PPT 'on'
+    INCLUDE_PPT ''
+    EXCLUDE_PPT ''
+    SPREADSHEET 'on'
+    LAST_OUTPUT_FILE './BOM.rpt'
+    TEMPLATE_FILE 'template.bom'
+    PACKAGED_VARIANT_SYNC_CHECK '1'
+    LAST_TEMPLATE_FILE 'C:\Allegrolib\MML\Allegrolib\site\cdssetup\bom_templates\buy_template.bom'
+    USE_FILTERS '1'
+    LAST_SS_DELIMITER 'Comma ,'
+    LAST_CALLOUT_FILE ''
+
+*********************************
+*  End processing project file  *
+*********************************
+
+Initializing tool communication modules... 
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of max86176_wrist_evkit_d 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Sensor_Board\worklib\max86176_wrist_evkit_d\packaged\pstchip.dat
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Sensor_Board\worklib\max86176_wrist_evkit_d\packaged\pstxprt.dat
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Sensor_Board\worklib\max86176_wrist_evkit_d\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of max86176_wrist_evkit_d 
+Reading cell level PPTs... 
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/site/../mml_worklib/mechanical/mech.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0201_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0402_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0508_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0603_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0805_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/1206_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/1210_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/TH_CAPS.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/evk_worklib/evk_generic_capacitors/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/evk_worklib/ek_cap_np/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/1981061#2d1/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/evk_worklib/evk_generic_resistors/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0201.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0402.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0603.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_0805.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_1206.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_1210.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/res_smd/part_table/SMD_RES_2512.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/tp/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/evk_worklib/ek_max86176/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/led_6p/part_table/led_6p.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/501616#2d2575/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/dio_pin_8p/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/lis2ds12/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/sit1572/part_table/part.ptf.
+       
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+C:\Temp\max86176_wrist_evkit_d_part_status_report.csv
+ 
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+    Start time   12:58:19
+    End time     12:58:21
+    Elapsed time  0:00:02
+
+*********************************
+*  BOM-HDL execution done.      *
+*********************************
+

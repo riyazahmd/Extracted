@@ -1,0 +1,379 @@
+<schema xmlns="http://www.cadence.com/spb/csschema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.cadence.com/spb/csschema CSSchema002.xsd">
+  <header>
+    <schemaVersion>17.4</schemaVersion>
+    <creatorTool>conceptHDL</creatorTool>
+    <modifierTool>conceptHDL</modifierTool>
+    <modificationTime>2020-09-17T15:25:54</modificationTime>
+    <savedLibrary>max30208_hsp3_demo_b_lib</savedLibrary>
+  </header>
+  <designs>
+    <design schemaType="nameBased" name="max30208_hsp3_demo_b" view="sch_1">
+      <lastids>
+        <instanceid>53</instanceid>
+        <netid>31</netid>
+        <insttermid>135</insttermid>
+      </lastids>
+      <cells>
+        <cell>
+          <id>S22</id>
+          <library>mml</library>
+          <name>cap_np</name>
+          <view>sym_1</view>
+          <parameters>
+          </parameters>
+          <terms>
+            <term>
+              <id>T15</id>
+              <name>1</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T16</id>
+              <name>2</name>
+              <direction>inout</direction>
+            </term>
+          </terms>
+        </cell>
+        <cell>
+          <id>S23</id>
+          <library>evkit_noncompliant</library>
+          <name>ek_max30208</name>
+          <view>sym_1</view>
+          <parameters>
+          </parameters>
+          <terms>
+            <term>
+              <id>T18</id>
+              <name>1</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T19</id>
+              <name>2</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T20</id>
+              <name>3</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T21</id>
+              <name>4</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T22</id>
+              <name>5</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T23</id>
+              <name>6</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T24</id>
+              <name>7</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T25</id>
+              <name>8</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T26</id>
+              <name>9</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T27</id>
+              <name>10</name>
+              <direction>inout</direction>
+            </term>
+          </terms>
+        </cell>
+        <cell>
+          <id>S25</id>
+          <library>mml</library>
+          <name>tf13ba-6s</name>
+          <view>sym_1</view>
+          <parameters>
+          </parameters>
+          <terms>
+            <term>
+              <id>T35</id>
+              <name>1</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T36</id>
+              <name>2</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T37</id>
+              <name>3</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T38</id>
+              <name>4</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T39</id>
+              <name>5</name>
+              <direction>inout</direction>
+            </term>
+            <term>
+              <id>T40</id>
+              <name>6</name>
+              <direction>inout</direction>
+            </term>
+          </terms>
+        </cell>
+      </cells>
+      <nets>
+        <net>
+          <id>N23</id>
+          <name>page1_gnd_signal</name>
+        </net>
+        <net>
+          <id>N27</id>
+          <name>unnamed_1_capnp_i3_1</name>
+        </net>
+        <net>
+          <id>N28</id>
+          <name>unnamed_1_ekmax30208_i4_10</name>
+        </net>
+        <net>
+          <id>N29</id>
+          <name>unnamed_1_ekmax30208_i4_8</name>
+        </net>
+        <net>
+          <id>N30</id>
+          <name>unnamed_1_ekmax30208_i4_9</name>
+        </net>
+        <net>
+          <id>N31</id>
+          <name>unnamed_1_ekmax30208_i4_7</name>
+        </net>
+        <net>
+          <id>N22</id>
+          <name>gnd_signal</name>
+          <scope>global</scope>
+        </net>
+      </nets>
+      <aliases>
+        <alias net1="N23" lsb1="-1" msb1="-1" net2="N22" lsb2="-1" msb2="-1" />
+      </aliases>
+      <differentialnets>
+      </differentialnets>
+      <differentialbusnets>
+      </differentialbusnets>
+      <netgroups>
+      </netgroups>
+      <netinterfaces>
+      </netinterfaces>
+      <instances>
+        <instance>
+          <id>I50</id>
+          <cellid>S22</cellid>
+          <name>page1_i3</name>
+          <pins>
+            <pin>
+              <id>M112</id>
+              <termid>T15</termid>
+              <connections>
+                <connection net="N27" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M113</id>
+              <termid>T16</termid>
+              <connections>
+                <connection net="N22" />
+              </connections>
+            </pin>
+          </pins>
+        </instance>
+        <instance>
+          <id>I51</id>
+          <cellid>S23</cellid>
+          <name>page1_i4</name>
+          <pins>
+            <pin>
+              <id>M114</id>
+              <termid>T18</termid>
+              <connections>
+                <connection net="N27" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M115</id>
+              <termid>T19</termid>
+              <connections>
+                <connection net="N27" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M116</id>
+              <termid>T20</termid>
+              <connections>
+                <connection net="N27" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M117</id>
+              <termid>T21</termid>
+              <connections>
+                <connection net="N22" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M118</id>
+              <termid>T22</termid>
+              <connections>
+                <connection net="N22" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M119</id>
+              <termid>T23</termid>
+              <connections>
+                <connection net="N22" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M120</id>
+              <termid>T24</termid>
+              <connections>
+                <connection net="N31" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M121</id>
+              <termid>T25</termid>
+              <connections>
+                <connection net="N29" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M122</id>
+              <termid>T26</termid>
+              <connections>
+                <connection net="N30" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M123</id>
+              <termid>T27</termid>
+              <connections>
+                <connection net="N28" />
+              </connections>
+            </pin>
+          </pins>
+        </instance>
+        <instance>
+          <id>I53</id>
+          <cellid>S25</cellid>
+          <name>page1_i8</name>
+          <pins>
+            <pin>
+              <id>M130</id>
+              <termid>T35</termid>
+              <connections>
+                <connection net="N22" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M131</id>
+              <termid>T36</termid>
+              <connections>
+                <connection net="N29" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M132</id>
+              <termid>T37</termid>
+              <connections>
+                <connection net="N31" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M133</id>
+              <termid>T38</termid>
+              <connections>
+                <connection net="N28" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M134</id>
+              <termid>T39</termid>
+              <connections>
+                <connection net="N30" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M135</id>
+              <termid>T40</termid>
+              <connections>
+                <connection net="N27" />
+              </connections>
+            </pin>
+          </pins>
+        </instance>
+      </instances>
+      <templateresolutions>
+      </templateresolutions>
+      <templateinstances>
+      </templateinstances>
+      <extensions>
+        <extension name="schematic_extension">
+        <schematicExtension>
+        <netScopes>
+          <netScope ref="gnd_signal">
+            <pageScope number="1">
+              <scope>global</scope>
+            </pageScope>
+          </netScope>
+        </netScopes>
+        <pages>
+          <page number="1">
+            <physicalPageNumber>2</physicalPageNumber>
+            <pageName>Start Schematic</pageName>
+            <errorStatus>false</errorStatus>
+            <nets>
+              <net ref="gnd_signal"></net>
+              <net ref="unnamed_1_capnp_i3_1"></net>
+              <net ref="unnamed_1_ekmax30208_i4_10"></net>
+              <net ref="unnamed_1_ekmax30208_i4_7"></net>
+              <net ref="unnamed_1_ekmax30208_i4_8"></net>
+              <net ref="unnamed_1_ekmax30208_i4_9"></net>
+            </nets>
+            <instances>
+              <instance ref="i3"></instance>
+              <instance ref="i4"></instance>
+              <instance ref="i8"></instance>
+            </instances>
+          </page>
+          <page number="3">
+            <physicalPageNumber>1</physicalPageNumber>
+            <pageName>Mechanical</pageName>
+            <errorStatus>false</errorStatus>
+            <nets>
+            </nets>
+            <instances>
+            </instances>
+          </page>
+        </pages>
+      </schematicExtension>
+        </extension>
+      </extensions>
+    </design>
+  </designs>
+</schema>

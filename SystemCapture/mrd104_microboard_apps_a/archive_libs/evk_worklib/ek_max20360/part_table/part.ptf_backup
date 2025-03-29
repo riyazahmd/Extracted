@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EK_MAX20360'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'                |'VALUE'                    |'MAXINV'   = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                                                                                                                  |'VOLTAGE_RATING'                                            |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'          |'DATASHEET_URL'                                      |'EST_STOCK_STATUS'           |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'WLP72'  		|  'MAXIM_21-100373'  		|  'MAX20360EWN+'  		|  'N/A'(!) = 'MAX20360EWN+'  	|  'MAXIM'  	|  'N/A'  	|  'EVKIT PART- IC; WEARABLE POWER NAMAGEMENT SOLUTION; PACKAGE OUTLINE DRAWING: 21-100373; WLP 72 PINS; 0.5MM PITCH; PKG. CODE: W724A4+1'  	|  'N/A'  	|  '-40 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-CUSTOM'  	|  'file://\\MAXCAVFS01\TEMP_DATASHEETS\EK_MAX20360'  	|  'HQ(00):HBO(00):MPOC(00)'  	|  '-'  	|  'FALSE'  	|  '($00)'
+
+END_PART
+
+END.

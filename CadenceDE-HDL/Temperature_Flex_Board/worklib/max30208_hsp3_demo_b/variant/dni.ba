@@ -1,0 +1,30 @@
+( 
+	(global
+		("VARIANT_NAME" "DNI")
+		("VARIANT_VIEW" "schdni_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "VARIANT")
+		("VARIANT_DNI" "DNI")
+		("VARIANT_DESIGNATOR" "*")
+	)
+	(props
+		("@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1):page1_i5@mml.\\5051100692\\(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "J1")
+		)
+		("@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1):page1_i3@mml.cap_np(chips)"
+			("LOCATION" "C1")
+		)
+		("@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1):page1_i4@evkit_noncompliant.ek_max30208(chips)"
+			("LOCATION" "U1")
+		)
+		("@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1):page3_i1@evkit_noncompliant.ev_kit_box(chips)"
+			("LOCATION" "EV_KIT_BOX1")
+		)
+	)
+)

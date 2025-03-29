@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EVP-AAXXXX'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'     |'VALUE'       |'MAXINV'               = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                                                     |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |  'AUTOMOTIVE'  |  'SAP_STATUS'  |'DATASHEET_URL'                                                                                       |'EST_STOCK_STATUS'                |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'SMT'        |'SW_EVP-AA202X'  |'EVP-AA202K'  |'11-EVPAA202K-00' (!)  = 'EVP-AA202K'         |'PANASONIC'       |'N/A'          |'SWITCH; SPST; SMT; 15V; 0.02A;BLACK; WITHOUT GROUND TERMINAL; EVPAA SERIES; LIGHT TOUCH SWITCH; RCONTACT=0.1 OHM; RINSULATION=100M OHM'  |'+2V TO +15V'       |'-40 DEGC TO +85 DEGC'    |'Y'      |'N/A'            |'EVKIT-NOT FOR TEST'    |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=11-EVPAA202K-00'|'HQ(9):HBO(75):MPOC(0)'  |'-'         |'FALSE'               |'($1)': ALT_SYMBOLS = 'SW_EVP-AA202XL'
+'SMT_GND'  		|  'SW_EVP-AAX02X_GND'  		|  'EVP-AA102K'  		|  'EH111000005105'(!) = 'EVP-AA102K'  	|  'PANASONIC'  	|  'N/A'  	|  'SWITCH; SPST; SMT; 15V; 0.02A; EVPAA SERIES WITH GROUND TERMINAL; LIGHT TOUCH SWITCH; RCONTACT=0.1 OHM; RINSULATION=100M OHM; WITH SPECIAL ASSEMBLY INSTRUCTIONS'  	|  '+2V TO +15V'  	|  '-40 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000005105'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($0.8500)'
+
+END_PART
+
+END.

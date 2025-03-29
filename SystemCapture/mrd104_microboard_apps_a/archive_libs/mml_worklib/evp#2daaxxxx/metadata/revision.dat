@@ -1,0 +1,348 @@
+(Cell	evp-aaxxxx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	03/30/15,14:20:30)
+
+			(User	Joseph.Duran)
+
+			(Path	jos_mml_project_lib.evp-aaxxxx)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/28/20,16:40:30)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.evp-aaxxxx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	03/30/15,14:20:30)
+
+					(User	Joseph.Duran)
+
+					(Path	jos_mml_project_lib.evp-aaxxxx)
+
+				)
+
+			)
+
+			(Symbols	3
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e41c942a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/30/15,14:20:30)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.evp-aaxxxx)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000028177f89)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/30/15,14:20:30)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.evp-aaxxxx)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd85996f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/20,16:37:59)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.evp-aaxxxx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e3f03e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000006451670)
+
+			(Primitives	2
+
+				(Primitive	EVP-AAXXXX_SMT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/30/15,14:20:30)
+
+							(User	Joseph.Duran)
+
+							(Path	jos_mml_project_lib.evp-aaxxxx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EVP-AAXXXX
+
+							(PackType	EVP-AAXXXX_SMT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SW_EVP-AA202X)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	EVP-AAXXXX_SMT_GND
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/20,16:36:30)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.evp-aaxxxx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EVP-AAXXXX
+
+							(PackType	EVP-AAXXXX_SMT_GND)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SW_EVP-AAX02X_GND)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001aa5034e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S003 (3838025))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7403a5)
+
+)
+

@@ -1,0 +1,194 @@
+(Cell	lis2ds12
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/09/20,15:20:38)
+
+			(User	Mariel.Mabituin)
+
+			(Path	mariel_project_lib.lis2ds12)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	07/09/20,15:20:38)
+
+					(User	Mariel.Mabituin)
+
+					(Path	mariel_project_lib.lis2ds12)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005dbb51d4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/09/20,15:20:38)
+
+							(User	Mariel.Mabituin)
+
+							(Path	mariel_project_lib.lis2ds12)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dcd03dc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ce01bfc3)
+
+			(Primitives	1
+
+				(Primitive	LIS2DS12_LGA12
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/09/20,15:20:38)
+
+							(User	Mariel.Mabituin)
+
+							(Path	mariel_project_lib.lis2ds12)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LIS2DS12
+
+							(PackType	LIS2DS12_LGA12)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	STMC_LGA-12)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001fee0445)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S007 (3864529))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7203af)
+
+)
+

@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX32666'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'                   |'VALUE'         |'MAXINV'                = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'CLASSIFICATION'     |'CASE'      |'TOLERANCE'    |'DESCRIPTION'                                                                                                       |'VOLTAGE_RATING'                                                                                                  |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |  'AUTOMOTIVE'  |'SAP_STATUS'    |'DATASHEET_URL'                                                                               |'EST_STOCK_STATUS'        |'PITCH'     |'PIN_COUNT'    |'EST_PRICE'    |'BEHAVIORAL_MODEL'    |'REFLOW'    ;
+{========================================================================================}
+'WLP109'  		|  'MAXIM_21-100301'  		|  'MAX32666GWPBT+'  		|  '10-MAX32666GWPBT-W'(!) = 'MAX32666GWPBT+'  	|  'MAXIM'  	|  'MICROCONTROLLER'  	|  'WLP109'  	|  'N/A'  	|  'IC; UCON; LOW-POWER ARM CORTEX-M4 WITH FPU-BASED; MICROCONTROLLER WITH BLUETOOTH 5 FOR WEARABLES; WLP109'  	|  '+1.1V TO +2.7V'  	|  '-40 DEGC TO +105 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  |  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=10-MAX32666GWPBT-W'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '0.35MM'  	|  '109'  	|  '($6.5200)'  	|  'FALSE'  	|  '-'
+'BGA121'  		|  'MAXIM_21-0680'  		|  'MAX32666GXMBT+'  		|  '10-MAX32666GXMBT-B'(!) = 'MAX32666GXMBT+'  	|  'MAXIM'  	|  'MICROCONTROLLER'  	|  'BGA121'  	|  'N/A'  	|  'IC; UCON; LOW-POWER ARM CORTEX-M4 WITH FPU-BASED; MICROCONTROLLER WITH BLUETOOTH 5 FOR WEARABLES; BGA121'  	|  '+1.1V'  	|  '-40 DEGC TO +105 DEGC'  	|  'Y'  	|  'N/A'  	|  'ACTIVE'  	|  'NO'  |  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=10-MAX32666GXMBT-B'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '0.35MM'  	|  '109'  	|  '($00)'  	|  'FALSE'  	|  '-'
+
+END_PART
+
+END.
+

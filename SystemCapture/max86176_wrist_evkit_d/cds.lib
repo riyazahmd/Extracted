@@ -1,0 +1,3 @@
+DEFINE worklib ./worklib
+DEFINE max86176_wrist_evkit_d ./max86176_wrist_evkit_d
+INCLUDE $CDS_SITE/cdssetup/cds.lib

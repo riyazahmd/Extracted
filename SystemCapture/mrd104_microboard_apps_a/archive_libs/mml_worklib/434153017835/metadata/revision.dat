@@ -1,0 +1,204 @@
+(Cell	434153017835
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/28/20,17:46:08)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.434153017835)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/28/20,17:46:47)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.434153017835)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/28/20,17:46:08)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.434153017835)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000025027f89)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/20,17:46:08)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.434153017835)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001aa40358)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001034f584)
+
+			(Primitives	1
+
+				(Primitive	434153017835_SMT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/20,17:46:08)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.434153017835)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	434153017835
+
+							(PackType	434153017835_SMT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SW_434153017835)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de20415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S003 (3838025))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5f0377)
+
+)
+

@@ -1,0 +1,1 @@
+thermistor_smd.ptf

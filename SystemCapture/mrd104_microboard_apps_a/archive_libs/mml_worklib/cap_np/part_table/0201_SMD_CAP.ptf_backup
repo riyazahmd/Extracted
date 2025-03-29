@@ -1,0 +1,49 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAP_NP'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE     | VALUE    | MAXINV        = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                                                                                                      | VOLTAGE_RATING |  TEMP_COEF  | TEMP_RANGE            | BOM | STATUS            |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | CAP | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | MANUFACTURER ;
+{========================================================================================}
+'0201CAP' | '0201'         | '1000PF' |'20-1000P-C2'(!)  = 'ECJ-ZEB1E102K'| 'SMT (0201)' | 'CERAMIC' | '10%'     | 'CAPACITOR; SMT; 0201; CERAMIC;  1000pF; 25V; 10%; X7R; -55 DEGC TO +125 DEGC;OBSOLETE DUE TO SMALL PADS'                          | '25V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'OBSOLETE'        |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-1000P-C2'| 'HQ(0):HBO(1):MPOC(0)' | 'N/A' | '1.00E-09' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | 'CAPC0603X33M' | '1000PF' |'20-1000P-C2'(!)  = 'ECJ-ZEB1E102K'| 'SMT (0201)' | 'CERAMIC' | '10%'     | 'CAPACITOR; SMT; 0201; CERAMIC;  1000pF; 25V; 10%; X7R; -55 DEGC TO +125 DEGC; DO NOT USE FOR NEW DESIGN-OBSELETE USE 20-1000P-E0' | '25V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'OBSOLETE'        |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-1000P-C2'| 'HQ(0):HBO(1):MPOC(0)' | 'N/A' | '1.00E-09' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | '0201'         | '100PF'  |'20-0100P-C3'(!) = 'ECJ-ZEC1C101J'| 'SMT (0201)' | 'CERAMIC' | '5%'      | 'CAPACITOR; SMT; 0201; CERAMIC;  100pF; 16V; 5%; C0G; -25degC to + 85degC: USE 20-0100p-D8 FOR NEW DESIGN'                       | '16V'          | 'C0G' | '-25degC to + 85degC' | 'Y' | 'OBSOLETE'        |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0100P-C3'| 'HQ(0):HBO(42):MPOC(84)' | 'N/A' | '1.00E-10' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | 'CAPC0603X33M' | '100PF'  |'20-0100P-C3'(!) = 'ECJ-ZEC1C101J'| 'SMT (0201)' | 'CERAMIC' | '5%'      | 'CAPACITOR; SMT; 0201; CERAMIC;  100pF; 16V; 5%; C0G; -25degC to + 85degC: USE 20-0100p-D8 FOR NEW DESIGN; ALTERNATE SYMBOL HAS PADSTACKS NOT ENOUGH FOR MANUAL SOLDERING'                       | '16V'          | 'C0G' | '-25degC to + 85degC' | 'Y' | 'OBSOLETE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0100P-C3'| 'HQ(0):HBO(42):MPOC(84)' | 'N/A' | '1.00E-10' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | '0201'         | '220PF'  |'20-0220P-C2'(!)  = 'ECJ-ZEB1E221K'| 'SMT (0201)' | 'CERAMIC' | '10%'     | 'CAPACITOR; SMT; 0201; CERAMIC;  220pF; 25V; 10%; X7R; -55 DEGC TO +125 DEGC;OBSOLETE DUE TO SMALL PADS'                           | '25V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'OBSOLETE'        |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0220P-C2'| 'HQ(0):HBO(9192):MPOC(38)' | 'N/A' | '2.20E-10' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | 'CAPC0603X33M' | '220PF'  |'20-0220P-C2'(!)  = 'ECJ-ZEB1E221K'| 'SMT (0201)' | 'CERAMIC' | '10%'     | 'CAPACITOR; SMT; 0201; CERAMIC;  220pF; 25V; 10%; X7R; -55 DEGC TO +125 DEGCC; ALTERNATE SYMBOL HAS PADSTACKS NOT ENOUGH FOR MANUAL SOLDERING'                                                      | '25V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'OBSOLETE'          |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0220P-C2'| 'HQ(0):HBO(9192):MPOC(38)' | 'N/A' | '2.20E-10' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.0163)' | 'PANASONIC' 
+'0201CAP' | '0201'         | '10PF'   |'20-0010P-D8'(!)  = 'C0201C100J3GAC;ECJ-ZEC1E100D'| 'SMT (0201)' | 'CERAMIC' | '5%'      | 'CAPACITOR; SMT; 0201; CERAMIC;  10pF; 25V; 5%; C0G; -25degC to + 85degC;OBSOLETE DUE TO SMALL PADS'                             | '25V'          | 'C0G' | '-25degC to + 85degC' | 'Y' | 'OBSOLETE'        |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0010P-D8'| 'HQ(0):HBO(906):MPOC(87)' | 'N/A' | '1.00E-11' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.05)' |'KEMET;PANASONIC'
+'0201CAP' | 'CAPC0603X33M' | '10PF'   |'20-0010P-D8'(!)  = 'C0201C100J3GAC;ECJ-ZEC1E100D'| 'SMT (0201)' | 'CERAMIC' | '5%'      | 'CAPACITOR; SMT; 0201; CERAMIC;  10pF; 25V; 5%; C0G; -25degC to + 85degC; ALTERNATE SYMBOL HAS PADSTACKS NOT ENOUGH FOR MANUAL SOLDERING'                                                        | '25V'          | 'C0G' | '-25degC to + 85degC' | 'Y' | 'OBSOLETE'          |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0010P-D8'| 'HQ(0):HBO(906):MPOC(87)' | 'N/A' | '1.00E-11' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.05)' |'KEMET;PANASONIC'
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH26-25S'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'             |'VALUE'                 |'MAXINV'                        = 'MFG_PART_NUMBER'         |'MANUFACTURER'                |'PIN_COUNT'    |'PITCH'    |'TOLERANCE'    |'DESCRIPTION'                                                   |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |'AUTOMOTIVE'    |'SAP_STATUS'    |'DATASHEET_URL'                                                                                       |'EST_STOCK_STATUS'        |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+'RA'  		|  'HRSC_FH26W-25S-0_3SHW'  		|  'FH26W-25S-0.3SHW(60)'  		|  'EH111000005014'(!) = 'FH26W-25S-0.3SHW(60)'  	|  'HIROSE ELECTRIC CO. LTD.'  	|  '25'  	|  '0.30'  	|  'N/A'  	|  'CONNECTOR; FEMALE; SMT; FPC CONNECTOR; RIGHT ANGLE; 25PINS'  	|  '+30V'  	|  '-55 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000005014'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($1.6400)'	: ALT_SYMBOLS = 'HRSC_FH26W-25S-0_3SHW_ALT'
+
+END_PART
+
+END.

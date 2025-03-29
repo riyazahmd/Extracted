@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/28/20,16:36:30)
+		(User Jayson.Navarro)
+		(MsgId ECO_021)
+		(Text "Package EVP-AAXXXX_SMT1 added to cell")
+		(Param1 "EVP-AAXXXX_SMT1")
+	)
+	(Comment
+		(Time 05/28/20,16:37:59)
+		(User Jayson.Navarro)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 "sym_3")
+	)

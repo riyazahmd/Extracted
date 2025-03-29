@@ -1,0 +1,388 @@
+(Cell	max32666
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	08/06/19,17:11:16)
+
+			(User	Joseph.Duran)
+
+			(Path	jo_mml_lib.max32666)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/11/20,14:26:12)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_17_2_lib.max32666)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.13)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	08/06/19,17:11:16)
+
+					(User	Joseph.Duran)
+
+					(Path	jo_mml_lib.max32666)
+
+				)
+
+			)
+
+			(Symbols	4
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000906dee5c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/19,21:48:25)
+
+							(User	Joseph.Duran)
+
+							(Path	jo_mml_lib.max32666)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d2ee340a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/19,17:11:16)
+
+							(User	Joseph.Duran)
+
+							(Path	jo_mml_lib.max32666)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cf185df0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/11/20,13:57:19)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.max32666)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000da3047f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	02/11/20,14:23:58)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.max32666)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a840354)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b65c1726)
+
+			(Primitives	2
+
+				(Primitive	MAX32666_WLP109
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/19,17:11:16)
+
+							(User	Joseph.Duran)
+
+							(Path	jo_mml_lib.max32666)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX32666
+
+							(PackType	MAX32666_WLP109)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MAXIM_21-100301)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	MAX32666_BGA121
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/11/20,12:32:17)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.max32666)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX32666
+
+							(PackType	MAX32666_BGA121)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MAXIM_21-0680)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4403d4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S002 (3832364))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba50379)
+
+)
+

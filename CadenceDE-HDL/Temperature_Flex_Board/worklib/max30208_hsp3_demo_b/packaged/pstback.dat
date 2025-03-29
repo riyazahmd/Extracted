@@ -1,0 +1,37 @@
+{ Packager-XL run on 26-Nov-2020 AT 13:05:45 }
+FILE_TYPE = BACK_ANNOTATION;
+DRAWING = "@max30208_hsp3_demo_b_lib.max30208_hsp3_demo_b(sch_1):page1";
+BODY = "CAP_NP","I3": LOCATION = "C1" #&CDS_LOCATION = "C1" &SEC = "1" #&CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+BODY = "EK_MAX30208","I4": LOCATION = "U1" #&CDS_LOCATION = "U1" #SEC = "1" !CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+"3":   PN = "3"  !CDS_PN = "3";
+"4":   PN = "4"  !CDS_PN = "4";
+"5":   PN = "5"  !CDS_PN = "5";
+"6":   PN = "6"  !CDS_PN = "6";
+"7":   PN = "7"  !CDS_PN = "7";
+"8":   PN = "8"  !CDS_PN = "8";
+"9":   PN = "9"  !CDS_PN = "9";
+"10":   PN = "10"  !CDS_PN = "10";
+BODY = "TF13BA-6S","I8": LOCATION = "J1" #&CDS_LOCATION = "J1" &SEC = "1" #&CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+"3":   PN = "3"  !CDS_PN = "3";
+"4":   PN = "4"  !CDS_PN = "4";
+"5":   PN = "5"  !CDS_PN = "5";
+"6":   PN = "6"  !CDS_PN = "6";
+NET = "UNNAMED_1_EKMAX30208_I4_7":
+ !PNN = "UNNAMED_1_EKMAX30208_I4_7";
+NET = "UNNAMED_1_EKMAX30208_I4_9":
+ !PNN = "UNNAMED_1_EKMAX30208_I4_9";
+NET = "UNNAMED_1_EKMAX30208_I4_8":
+ !PNN = "UNNAMED_1_EKMAX30208_I4_8";
+NET = "UNNAMED_1_EKMAX30208_I4_10":
+ !PNN = "UNNAMED_1_EKMAX30208_I4_10";
+NET = "UNNAMED_1_CAPNP_I3_1":
+ !PNN = "UNNAMED_1_CAPNP_I3_1";
+NET = "GND_SIGNAL":
+ !PNN = "GND_SIGNAL";
+END.

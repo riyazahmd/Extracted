@@ -1,0 +1,329 @@
+(Cell	thermistor_smd
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/10,16:50:36)
+
+			(User	Owen.Tanate)
+
+			(Path	worklib_request.thermistor_smd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/26/12,17:11:50)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_lib.thermistor_smd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009b1c6b62)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,16:50:36)
+
+							(User	Owen.Tanate)
+
+							(Path	worklib_request.thermistor_smd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cf703b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009e65007c)
+
+			(Primitives	3
+
+				(Primitive	THERMISTOR_SMD
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,16:50:36)
+
+							(User	Owen.Tanate)
+
+							(Path	worklib_request.thermistor_smd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THERMISTOR_SMD
+
+							(PackType	THERMISTOR_SMD)
+
+							(PackType	THERMISTOR_SMD_0201)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0201)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	0201_nosilk)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	THERMISTOR_SMD_0603
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/12/12,10:45:55)
+
+							(User	Moises.Condicion)
+
+							(Path	eee_lib.thermistor_smd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THERMISTOR_SMD
+
+							(PackType	THERMISTOR_SMD_0603)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	0603)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	THERMISTOR_SMD_0201M
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/26/12,17:10:00)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.thermistor_smd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THERMISTOR_SMD
+
+							(PackType	THERMISTOR_SMD_0201M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	THRMC0603X33M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dde03d6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S011 (v16-5-13AB))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dbc03dc)
+
+)
+
+

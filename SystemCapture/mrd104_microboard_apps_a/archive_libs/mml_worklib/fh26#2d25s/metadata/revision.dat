@@ -1,0 +1,194 @@
+(Cell	fh26-25s
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/15/20,14:48:08)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.fh26-25s)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/15/20,14:48:08)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.fh26-25s)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004ad53988)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/20,14:48:08)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.fh26-25s)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c97038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bc8bb6da)
+
+			(Primitives	1
+
+				(Primitive	FH26-25S_RA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/20,14:48:08)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.fh26-25s)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FH26-25S
+
+							(PackType	FH26-25S_RA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HRSC_FH26W-25S-0_3SHW)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf103b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S003 (3838025))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb303a1)
+
+)
+

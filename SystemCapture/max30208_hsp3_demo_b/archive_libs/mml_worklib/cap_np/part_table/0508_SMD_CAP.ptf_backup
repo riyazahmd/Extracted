@@ -1,0 +1,44 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAP_NP'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE      | VALUE   | MAXINV                                                 = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                           | VOLTAGE_RATING |  TEMP_COEF  | TEMP_RANGE           | BOM | STATUS   |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | CAP | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | MANUFACTURER ;
+{========================================================================================}
+'0508CAP' | 'CAPC1220X107M' | '0.1uF' |'20-000u1-L7'(!) = 'CLLE1AX7R1A104M'| 'SMT (0508)' | 'CERAMIC' | '20%'  | 'CAPACITOR; SMT; 0508; CERAMIC; 0.1uF; 10V; 20%; X7R' | '10V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-000U1-L7'| 'HQ(0):HBO(2):MPOC(1)' | 'N/A' | '1.00E-07' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.4900)' | 'TDK' 
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

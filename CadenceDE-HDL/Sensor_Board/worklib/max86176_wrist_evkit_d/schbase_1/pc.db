@@ -1,0 +1,889 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 17.2-2016 S037 (3706707) 3/26/2018 on Thu Apr 19 16:15:39 2018
+#ISCELL
+  mml maxim#20b#20size#20page#202 *
+  *
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i4
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i5
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i6
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i7
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i8
+#CELL
+  evkit_noncompliant evk_mthole *
+  page1_i9
+#ISCELL
+  mml maxim#20c#20size#20page#202 *
+  *
+#ISCELL
+  mml mml_inport *
+  page2_i174
+#CELL
+  mml tp *
+  page2_i182
+#ISCELL
+  mml mml_inport *
+  page2_i183
+#ISCELL
+  mml mml_inport *
+  page2_i184
+#CELL
+  mml tp *
+  page2_i186
+#ISCELL
+  mml mml_inport *
+  page2_i188
+#ISCELL
+  mml mml_inport *
+  page2_i189
+#ISCELL
+  mml mml_inport *
+  page2_i190
+#CELL
+  mml tp *
+  page2_i194
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i200
+#ISCELL
+  standard gnd_power *
+  page2_i201
+#ISCELL
+  mml mml_inport *
+  page2_i202
+#ISCELL
+  mml mml_inport *
+  page2_i203
+#ISCELL
+  mml mml_inport *
+  page2_i204
+#ISCELL
+  mml mml_inport *
+  page2_i205
+#ISCELL
+  mml mml_inport *
+  page2_i206
+#ISCELL
+  mml mml_inport *
+  page2_i207
+#ISCELL
+  mml mml_inport *
+  page2_i246
+#ISCELL
+  mml mml_inport *
+  page2_i247
+#ISCELL
+  standard gnd_power *
+  page2_i248
+#ISCELL
+  mml mml_inport *
+  page2_i249
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i250
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i251
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i252
+#ISCELL
+  mml mml_inport *
+  page2_i253
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i254
+#ISCELL
+  mml mml_inport *
+  page2_i255
+#ISCELL
+  mml mml_inport *
+  page2_i269
+#ISCELL
+  mml mml_inport *
+  page2_i270
+#CELL
+  mml tp *
+  page2_i273
+#CELL
+  mml tp *
+  page2_i278
+#CELL
+  mml tp *
+  page2_i279
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i296
+#ISCELL
+  mml mml_inport *
+  page2_i297
+#ISCELL
+  mml mml_inport *
+  page2_i298
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i299
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i300
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i301
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i302
+#ISCELL
+  mml mml_inport *
+  page2_i304
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i306
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i308
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i309
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i310
+#ISCELL
+  mml mml_inport *
+  page2_i320
+#ISCELL
+  standard gnd_power *
+  page2_i321
+#CELL
+  mml cap_np *
+  page2_i322
+#CELL
+  mml cap_np *
+  page2_i323
+#ISCELL
+  standard gnd_power *
+  page2_i324
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i325
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i326
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i327
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i328
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i329
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i330
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i331
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i332
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i334
+#CELL
+  evkit_noncompliant evk_generic_capacitors *
+  page2_i335
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i336
+#ISCELL
+  mml mml_inport *
+  page2_i337
+#ISCELL
+  mml mml_inport *
+  page2_i342
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i371
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i372
+#ISCELL
+  standard gnd_power *
+  page2_i373
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i374
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i375
+#CELL
+  mml cap_pol *
+  page2_i376
+#ISCELL
+  standard gnd_power *
+  page2_i377
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i378
+#ISCELL
+  standard gnd_power *
+  page2_i379
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i380
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i381
+#ISCELL
+  standard gnd_power *
+  page2_i382
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i383
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i384
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i385
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i386
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i389
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i390
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i391
+#ISCELL
+  standard gnd_power *
+  page2_i392
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i393
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i394
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i395
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i396
+#ISCELL
+  standard gnd_power *
+  page2_i397
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i398
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i399
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i400
+#CELL
+  mml cap_pol *
+  page2_i401
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i402
+#ISCELL
+  standard gnd_power *
+  page2_i403
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i404
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i405
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i406
+#ISCELL
+  standard gnd_power *
+  page2_i407
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i408
+#ISCELL
+  standard gnd_power *
+  page2_i409
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i410
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i412
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i416
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i418
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i419
+#ISCELL
+  standard gnd_power *
+  page2_i420
+#ISCELL
+  standard gnd_power *
+  page2_i423
+#ISCELL
+  mml mml_inport *
+  page2_i424
+#ISCELL
+  mml mml_inport *
+  page2_i425
+#ISCELL
+  mml mml_inport *
+  page2_i426
+#ISCELL
+  mml mml_inport *
+  page2_i427
+#ISCELL
+  mml mml_inport *
+  page2_i428
+#ISCELL
+  mml mml_inport *
+  page2_i430
+#ISCELL
+  mml mml_inport *
+  page2_i431
+#ISCELL
+  mml mml_inport *
+  page2_i432
+#CELL
+  mml header_16p *
+  page2_i435
+#CELL
+  mml header_12p *
+  page2_i436
+#ISCELL
+  standard gnd_power *
+  page2_i484
+#CELL
+  mml header_17p_x_2r *
+  page2_i501
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i503
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i509
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i510
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i511
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i512
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i513
+#ISCELL
+  standard gnd_power *
+  page2_i514
+#ISCELL
+  mml mml_inport *
+  page2_i516
+#ISCELL
+  mml mml_inport *
+  page2_i517
+#ISCELL
+  mml mml_inport *
+  page2_i519
+#ISCELL
+  mml mml_inport *
+  page2_i520
+#ISCELL
+  mml mml_inport *
+  page2_i521
+#ISCELL
+  mml mml_inport *
+  page2_i522
+#ISCELL
+  mml mml_inport *
+  page2_i523
+#ISCELL
+  mml mml_inport *
+  page2_i524
+#ISCELL
+  mml mml_inport *
+  page2_i525
+#ISCELL
+  mml mml_inport *
+  page2_i526
+#ISCELL
+  mml mml_inport *
+  page2_i527
+#ISCELL
+  mml mml_inport *
+  page2_i528
+#ISCELL
+  mml mml_inport *
+  page2_i529
+#ISCELL
+  mml mml_inport *
+  page2_i530
+#ISCELL
+  mml mml_inport *
+  page2_i531
+#ISCELL
+  mml mml_inport *
+  page2_i532
+#ISCELL
+  mml mml_inport *
+  page2_i533
+#ISCELL
+  mml mml_inport *
+  page2_i534
+#ISCELL
+  mml mml_inport *
+  page2_i535
+#ISCELL
+  mml mml_inport *
+  page2_i536
+#ISCELL
+  mml mml_inport *
+  page2_i537
+#ISCELL
+  mml mml_inport *
+  page2_i538
+#ISCELL
+  mml mml_inport *
+  page2_i539
+#ISCELL
+  mml mml_inport *
+  page2_i540
+#ISCELL
+  mml mml_inport *
+  page2_i541
+#ISCELL
+  mml mml_inport *
+  page2_i542
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i543
+#CELL
+  evkit_noncompliant ek_max86171 *
+  page2_i544
+#CELL
+  mml cap_np *
+  page2_i546
+#CELL
+  mml cap_np *
+  page2_i550
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i551
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i552
+#CELL
+  mml sfh_7072 *
+  page2_i556
+#CELL
+  mml led_3p *
+  page2_i557
+#ISCELL
+  mml mml_inport *
+  page2_i562
+#ISCELL
+  standard gnd_power *
+  page2_i563
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i565
+#ISCELL
+  mml mml_inport *
+  page2_i566
+#ISCELL
+  mml mml_inport *
+  page2_i567
+#ISCELL
+  mml mml_inport *
+  page2_i568
+#ISCELL
+  mml mml_inport *
+  page2_i569
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i570
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i571
+#ISCELL
+  mml mml_inport *
+  page2_i572
+#ISCELL
+  mml mml_inport *
+  page2_i573
+#ISCELL
+  mml mml_inport *
+  page2_i574
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i575
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i576
+#ISCELL
+  standard gnd_power *
+  page2_i577
+#ISCELL
+  mml mml_inport *
+  page2_i578
+#ISCELL
+  mml mml_inport *
+  page2_i579
+#ISCELL
+  mml mml_inport *
+  page2_i580
+#ISCELL
+  mml mml_inport *
+  page2_i581
+#ISCELL
+  mml mml_inport *
+  page2_i582
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i583
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i584
+#ISCELL
+  mml mml_inport *
+  page2_i585
+#ISCELL
+  mml mml_inport *
+  page2_i586
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i587
+#CELL
+  mml led_3p *
+  page2_i588
+#ISCELL
+  standard gnd_power *
+  page2_i589
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i590
+#CELL
+  evkit_noncompliant ek_max40075 *
+  page2_i591
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i593
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i594
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i595
+#ISCELL
+  standard gnd_power *
+  page2_i596
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i597
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i598
+#ISCELL
+  standard gnd_power *
+  page2_i599
+#CELL
+  mml tp *
+  page2_i60
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i600
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i601
+#ISCELL
+  standard gnd_power *
+  page2_i602
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i603
+#CELL
+  mml res_smd *
+  page2_i604
+#CELL
+  mml res_smd *
+  page2_i605
+#ISCELL
+  standard gnd_power *
+  page2_i606
+#CELL
+  mml res_smd *
+  page2_i607
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i608
+#ISCELL
+  standard gnd_power *
+  page2_i609
+#CELL
+  mml tp *
+  page2_i61
+#ISCELL
+  mml mml_inport *
+  page2_i610
+#CELL
+  mml cap_np *
+  page2_i611
+#CELL
+  mml res_smd *
+  page2_i612
+#CELL
+  mml res_smd *
+  page2_i613
+#ISCELL
+  standard gnd_power *
+  page2_i614
+#CELL
+  mml cap_np *
+  page2_i615
+#CELL
+  mml cap_np *
+  page2_i616
+#ISCELL
+  standard gnd_power *
+  page2_i618
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i619
+#CELL
+  evkit_noncompliant ek_header_2p *
+  page2_i620
+#CELL
+  mml res_smd *
+  page2_i621
+#ISCELL
+  standard gnd_power *
+  page2_i622
+#ISCELL
+  standard gnd_power *
+  page2_i623
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i624
+#ISCELL
+  mml mml_inport *
+  page2_i625
+#ISCELL
+  standard gnd_power *
+  page2_i626
+#CELL
+  mml res_smd *
+  page2_i627
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i628
+#CELL
+  mml max15101 *
+  page2_i629
+#CELL
+  mml tp *
+  page2_i63
+#ISCELL
+  standard gnd_power *
+  page2_i630
+#ISCELL
+  mml mml_inport *
+  page2_i632
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i633
+#ISCELL
+  standard gnd_signal *
+  page2_i634
+#ISCELL
+  standard gnd_signal *
+  page2_i635
+#ISCELL
+  standard gnd_signal *
+  page2_i636
+#ISCELL
+  standard gnd_signal *
+  page2_i637
+#ISCELL
+  mml mml_inport *
+  page2_i638
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i639
+#CELL
+  mml tp *
+  page2_i64
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i640
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i641
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i643
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i644
+#ISCELL
+  mml mml_inport *
+  page2_i645
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i646
+#ISCELL
+  mml mml_inport *
+  page2_i647
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i648
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i649
+#ISCELL
+  mml mml_inport *
+  page2_i65
+#ISCELL
+  mml mml_inport *
+  page2_i650
+#ISCELL
+  mml mml_inport *
+  page2_i651
+#CELL
+  mml ad8421 *
+  page2_i652
+#CELL
+  mml ad8421 *
+  page2_i654
+#CELL
+  mml 112740-13 *
+  page2_i655
+#ISCELL
+  standard gnd_power *
+  page2_i656
+#ISCELL
+  mml mml_inport *
+  page2_i659
+#CELL
+  mml dio_photo *
+  page2_i660
+#ISCELL
+  mml mml_inport *
+  page2_i661
+#ISCELL
+  mml mml_inport *
+  page2_i662
+#ISCELL
+  standard gnd_power *
+  page2_i663
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i664
+#ISCELL
+  standard gnd_power *
+  page2_i665
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i666
+#CELL
+  mml cap_np *
+  page2_i667
+#CELL
+  mml cap_np *
+  page2_i668
+#CELL
+  evkit_noncompliant evk_generic_resistors *
+  page2_i669
+#CELL
+  mml q65111a6271 *
+  page2_i670
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i672
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i673
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i674
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i675
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i676
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i677
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i678
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i679
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i680
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i681
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i682
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i683
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i684
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i685
+#CELL
+  mml tp *
+  page2_i686
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i687
+#CELL
+  mml cap_np *
+  page2_i688
+#CELL
+  mml cap_np *
+  page2_i689
+#CELL
+  mml cap_np *
+  page2_i690
+#CELL
+  mml tp *
+  page2_i80
+#CELL
+  mml tp *
+  page2_i87
+#CELL
+  mml tp *
+  page2_i88
+#ISCELL
+  mml maxim#20d#20size#20page#202 *
+  *

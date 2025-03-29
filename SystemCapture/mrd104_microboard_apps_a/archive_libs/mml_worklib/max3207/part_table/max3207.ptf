@@ -1,0 +1,30 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX3207'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE         | VALUE         | MAXINV             = MFG_PART_NUMBER | MANUFACTURER |  CLASSIFICATION  |  CASE  | TOLERANCE | DESCRIPTION                                                              | VOLTAGE_RATING  | TEMP_RANGE            | BOM | LEAD_LENGTH | STATUS   |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | REFLOW | BEHAVIORAL_MODEL | EST_PRICE ;
+{========================================================================================}
+'SOT23-6' | 'SOT95P280X145-6M' | 'MAX3207EAUT' | '10-MAX3207EAUT-U'(!) = 'MAX3207EAUT+'   | 'MAXIM'   | 'PROTECTION/PROTECTOR' | 'SOT23-6' | 'N/A'     | 'IC; PROT; DUAL, QUAD, AND HEX HIGH-SPEED DIFFERENTIAL ESD-PROTECTION IC; SOT23-6; NOTE: SET TO OBSOLETE FOR FOOTPRINT UPDATE. KINDLY USE PART WITH JEDEC_TYPE MAXIM_90-0175' | '+0.9V TO +5.5V' | '-40 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'OBSOLETE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=10-MAX3207EAUT-U'| 'HQ(0):HBO(6):MPOC(0)' | '-' | 'FALSE' | '($0.0601)'    : ALT_SYMBOLS = 'SOT95P280X145-6L'
+'SOT23-6' | 'MAXIM_90-0175' | 'MAX3207EAUT+' | '10-MAX3207EAUT-U'(!) = 'MAX3207EAUT+'   | 'MAXIM'   | 'PROTECTION/PROTECTOR' | 'SOT23-6' | 'N/A'     | 'IC; PROT; DUAL, QUAD, AND HEX HIGH-SPEED DIFFERENTIAL ESD-PROTECTION IC; SOT23-6' | '+0.9V TO +5.5V' | '-40 DEGC TO +125 DEGC' | 'Y' | 'N/A'       | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=10-MAX3207EAUT-U'| 'HQ(0):HBO(6):MPOC(0)' | '-' | 'FALSE' | '($0.0601)'	: ALT_SYMBOLS = 'SOT95P280X145-6M'
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

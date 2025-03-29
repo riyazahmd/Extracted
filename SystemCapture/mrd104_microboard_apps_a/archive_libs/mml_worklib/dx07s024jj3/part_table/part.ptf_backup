@@ -1,0 +1,22 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DX07S024JJ3'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'       |'VALUE'        |'MAXINV'                    = 'MFG_PART_NUMBER'    |'MANUFACTURER'               |'PIN_COUNT'    |'PITCH'     |'TOLERANCE'    |'DESCRIPTION'                                                    |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |  'AUTOMOTIVE'  |  'SAP_STATUS'  |'DATASHEET_URL'                                                                                 |'EST_STOCK_STATUS'              |'REFLOW'    |'EST_PRICE'    ;
+{========================================================================================}
+ 'RA'         |'JAE_DX07S024JJ3'  |'DX07S024JJ3'  |'01-DX07S024JJ324P-26' (!)   = 'DX07S024JJ3R1300'|'JAE ELECTRONIC INDUSTRY'  |'24'         |'0.50MM'  |'N/A'        |'CONNECTOR; FEMALE; SMT; USB TYPE-C CONNECTOR; DX07 SERIES RECEPTACLE; RIGHT ANGLE; 24PINS'  |'20V'             |'-30 DEGC TO +80 DEGC'  |'Y'    |'0.30MM'       |'EVKIT-NOT FOR TEST'  |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=01-DX07S024JJ324P-26'|'HQ(0):HBO(0):MPOC(0)'  |'-'       |'($2.0900)'    
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+

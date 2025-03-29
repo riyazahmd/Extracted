@@ -1,0 +1,114 @@
+(Cell	mml_vcc_bar
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/29/15,17:50:09)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_lib.mml_vcc_bar)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	10/29/15,17:50:09)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_lib.mml_vcc_bar)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000538c3400)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/29/15,17:50:09)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_lib.mml_vcc_bar)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b14034b)
+
+		)
+
+		(Checksum	000000001b530372)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b3c0348)
+
+)
+

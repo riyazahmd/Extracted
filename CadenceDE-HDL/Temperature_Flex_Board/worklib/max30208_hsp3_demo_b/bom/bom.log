@@ -1,0 +1,116 @@
+
+
+    Cadence Design Systems, Inc.
+    Bomhdl 17.4-2019 S012 (3898062) 10/18/2020
+    Copyright 2011 Cadence Design Systems, Inc, Cadence Design Systems, Inc.
+
+    Run on Thu Nov 26 13:06:11 2020
+
+
+*****************************
+*  Processing project file  *
+*****************************
+
+    DESIGN_LIBRARY 'max30208_hsp3_demo_b_lib'
+    DESIGN_NAME 'max30208_hsp3_demo_b'
+    VIEW_SCHEMATIC 'sch_1'
+    VIEW_PACKAGER 'packaged'
+    VIEW_VARIANT 'variant'
+    VIEW_BOM ''
+    VIEW_CONFIG_PHYSICAL 'cfg_package'
+    PPT 'C:\Allegrolib\MML\Allegrolib\site\..\mml_worklib\mechanical'
+    USE_LIBRARY_PPT 'on'
+    MERGE_PPT 'on'
+    INCLUDE_PPT ''
+    EXCLUDE_PPT ''
+    SPREADSHEET 'on'
+    LAST_OUTPUT_FILE './BOM.rpt'
+    TEMPLATE_FILE 'template.bom'
+    PACKAGED_VARIANT_SYNC_CHECK '1'
+    LAST_TEMPLATE_FILE 'C:\Allegrolib\MML\Allegrolib\site\cdssetup\bom_templates\buy_template.bom'
+    USE_FILTERS '1'
+    LAST_SS_DELIMITER 'Comma ,'
+    LAST_CALLOUT_FILE ''
+
+*********************************
+*  End processing project file  *
+*********************************
+
+Initializing tool communication modules... 
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of max30208_hsp3_demo_b 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Temperature_Flex_Board\worklib\max30208_hsp3_demo_b\packaged\pstchip.dat
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Temperature_Flex_Board\worklib\max30208_hsp3_demo_b\packaged\pstxprt.dat
+ 
+
+Loading... C:\work\ul\working\confirmed\maxrefdes104\MAXREFDES104_Temperature_Flex_Board\worklib\max30208_hsp3_demo_b\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of max30208_hsp3_demo_b 
+Reading cell level PPTs... 
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/site/../mml_worklib/mechanical/mech.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0201_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0402_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0508_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0603_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/0805_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/1206_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/1210_SMD_CAP.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/cap_np/part_table/TH_CAPS.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/mml_worklib/tf13ba#2d6s/part_table/part.ptf.
+       
+INFO(SPCODD-181): Loading C:/Allegrolib/MML/Allegrolib/evk_worklib/ek_max30208/part_table/part.ptf.
+       
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+C:\Temp\max30208_hsp3_demo_b_part_status_report.csv
+ 
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+    Start time   13:06:11
+    End time     13:06:12
+    Elapsed time  0:00:01
+
+*********************************
+*  BOM-HDL execution done.      *
+*********************************
+

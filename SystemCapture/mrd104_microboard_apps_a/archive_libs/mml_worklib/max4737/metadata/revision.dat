@@ -1,0 +1,204 @@
+(Cell	max4737
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/08/20,00:32:24)
+
+			(User	Joseph.Duran)
+
+			(Path	jo_mml_lib.max4737)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/11/15,11:58:47)
+
+			(User	Jayson.Navarro)
+
+			(Path	jo_mml_lib.max4737)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/08/20,00:32:24)
+
+					(User	Joseph.Duran)
+
+					(Path	jo_mml_lib.max4737)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005f693f3f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/08/20,00:32:24)
+
+							(User	Joseph.Duran)
+
+							(Path	jo_mml_lib.max4737)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6d03bd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000072735027)
+
+			(Primitives	1
+
+				(Primitive	MAX4737_UCSP16_B16-4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/08/20,00:32:24)
+
+							(User	Joseph.Duran)
+
+							(Path	jo_mml_lib.max4737)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX4737
+
+							(PackType	MAX4737_UCSP16_B16-4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MAXIM_21-0101_B16-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0c03b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S002 (3832364))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7403a2)
+
+)
+

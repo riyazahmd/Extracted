@@ -1,0 +1,200 @@
+( 
+	(global
+		("VARIANT_NAME" "DO_NOT_INSTALL")
+		("VARIANT_VIEW" "schdo_not_install_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "VARIANT")
+		("VARIANT_DNI" "DNI")
+		("VARIANT_DESIGNATOR" "*")
+	)
+	(props
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i538@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R4B")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i537@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R3B")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1544@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R11")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1491@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R29")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1490@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R28")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i691@mml.res_smd(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "R7")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1287@mml.cap_np(chips)"
+			("LOCATION" "C5")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1503@mml.cap_np(chips)"
+			("LOCATION" "C6")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1275@mml.cap_np(chips)"
+			("LOCATION" "C7")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1524@mml.cap_np(chips)"
+			("LOCATION" "C12")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1327@evkit_noncompliant.evk_generic_capacitors(chips)"
+			("LOCATION" "C18")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1360@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C24")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1541@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C35")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1155@mml.cap_np(chips)"
+			("LOCATION" "C38")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1329@evkit_noncompliant.evk_generic_capacitors(chips)"
+			("LOCATION" "C44")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1328@evkit_noncompliant.evk_generic_capacitors(chips)"
+			("LOCATION" "C45")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1540@mml.\\1981061-1\\(chips)"
+			("LOCATION" "J1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1542@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R3")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1528@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R10")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1430@mml.res_smd(chips)"
+			("LOCATION" "R16")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1425@mml.res_smd(chips)"
+			("LOCATION" "R17")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1408@mml.res_smd(chips)"
+			("LOCATION" "R18")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1326@mml.res_smd(chips)"
+			("LOCATION" "R45")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1333@mml.res_smd(chips)"
+			("LOCATION" "R46")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1370@mml.res_smd(chips)"
+			("LOCATION" "R56")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1502@mml.tp(chips)"
+			("LOCATION" "RLD")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1547@mml.tp(chips)"
+			("LOCATION" "TP1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1537@mml.tp(chips)"
+			("LOCATION" "TP2")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1538@mml.tp(chips)"
+			("LOCATION" "TP3")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1548@mml.tp(chips)"
+			("LOCATION" "TP4")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page1_i1546@evkit_noncompliant.ek_max86176(chips)"
+			("LOCATION" "U1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i348@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i619@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C2")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i675@mml.cap_np(chips)"
+			("LOCATION" "C3")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i673@mml.cap_np(chips)"
+			("LOCATION" "C4")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i669@mml.cap_np(chips)"
+			("LOCATION" "C8")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i696@mml.cap_np(chips)"
+			("LOCATION" "C9")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i690@mml.cap_np(chips)"
+			("LOCATION" "C22")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i618@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C30")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i616@mml.led_6p(chips)"
+			("LOCATION" "DS1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i395@mml.\\501616-2575\\(chips)"
+			("LOCATION" "J2")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i684@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R1")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i651@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R1A")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i693@mml.res_smd(chips)"
+			("LOCATION" "R1B")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i678@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R2")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i363@mml.res_smd(chips)"
+			("LOCATION" "R3A")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i695@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R4")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i362@mml.res_smd(chips)"
+			("LOCATION" "R4A")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i656@mml.res_smd(chips)"
+			("LOCATION" "R5")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i694@mml.res_smd(chips)"
+			("LOCATION" "R6")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i685@mml.res_smd(chips)"
+			("LOCATION" "R12")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i692@mml.res_smd(chips)"
+			("LOCATION" "R14")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i453@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R37")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i451@evkit_noncompliant.evk_generic_resistors(chips)"
+			("LOCATION" "R38")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i320@mml.dio_pin_8p(chips)"
+			("LOCATION" "U2")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i321@mml.dio_pin_8p(chips)"
+			("LOCATION" "U3")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i657@mml.lis2ds12(chips)"
+			("LOCATION" "U4")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i315@mml.dio_pin_8p(chips)"
+			("LOCATION" "U14")
+		)
+		("@max86176_wrist_evkit_d.max86176_wrist_evkit_d(sch_1):page4_i688@mml.sit1572(chips)"
+			("LOCATION" "U20")
+		)
+	)
+)

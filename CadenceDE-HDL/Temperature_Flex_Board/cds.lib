@@ -1,0 +1,2 @@
+DEFINE max30208_hsp3_demo_b_lib worklib
+INCLUDE $CDS_SITE/cdssetup/cds.lib

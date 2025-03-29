@@ -1,0 +1,50 @@
+Starting to read C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstchip.dat 
+   Finished reading C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstchip.dat (00:00:00.06)
+Starting to read C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstxprt.dat 
+   Finished reading C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstxnet.dat 
+   Finished reading C:/Users/oguzhan.buyuksolak/Desktop/DESIGN/INH/mrd104_microboard_apps_a/worklib/mrd104_microboard_apps_a/packaged/pstxnet.dat (00:00:00.00)
+     
+
+ERC Summary:
+
+     Single Node Violations:            0
+     IO Check Violations:               0
+     Loading Check Violations:          0
+
+ERC-DX run on Jul 10 20:52:22 2020
+   DESIGN NAME : 'MRD104_MICROBOARD_APPS_A'
+   PACKAGING ON 10-Jul-2020 AT 20:51:47
+
+   DIRECTORIES  <none>
+   LIBRARIES  'mrd104_microboard_apps_a_lib' 'standard' 'mml'
+              'evkit_noncompliant'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   ASSERT_CHECK OFF
+   PIN_DIRECTION_CHECK OFF
+   CONNECT_CHECK OFF
+   SINGLE_NODE_CHECK ON
+   IO_CHECK OFF
+   IO_CHECK_HIGH ON
+   IO_CHECK_LOW ON
+   LOAD_CHECK OFF
+   LOAD_CHECK_HIGH ON
+   LOAD_CHECK_LOW ON
+   ENABLE_TIMES OFF
+   VERBOSE_LOADING ON
+   VPUNKNOWNLOADING ON
+   EXTENDEDDESCRIPTIONS ON
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS ON
+   SUPPRESS   20
+   WARNINGS ON
+   GLOBALS_SYNONYM_CHECK OFF
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:09
+elapsed time  0:00:01
+

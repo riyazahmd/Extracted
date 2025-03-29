@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LIS2DS12'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'   |'VALUE'     |'MAXINV'              = 'MFG_PART_NUMBER'    |'MANUFACTURER'           |'CLASSIFICATION'                    |'CASE'     |'TOLERANCE'    |'DESCRIPTION'                                                                                                                                                                               |'VOLTAGE_RATING'     |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |'AUTOMOTIVE'    |'SAP_STATUS'    |'DATASHEET_URL'                                                                             |'EST_STOCK_STATUS'        |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+'LGA12'  		|  'STMC_LGA-12'  		|  'LIS2DS12'  		|  'EQ111000005315'(!) = 'LIS2DS12'  	|  'ST MICROELECTRONICS'  	|  'MICROELECTROMECHANICAL SYSTEMS'  	|  'LGA12'  	|  'N/A'  	|  'IC; MEMS; DIGITAL OUTPUT MOTION SENSOR; ULTRA-LOW-POWER HIGH-PERFORMANCE 3-AXIS PICO ACCELEROMETER; MICROELECTROMECHANICAL SYSTEMS; LGA12; NOTE: MANUFACTURER'  	|  '+1.62V TO +1.98V'  	|  '-40 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'YES'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EQ111000005315'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($2.1100)'
+
+END_PART
+
+END.

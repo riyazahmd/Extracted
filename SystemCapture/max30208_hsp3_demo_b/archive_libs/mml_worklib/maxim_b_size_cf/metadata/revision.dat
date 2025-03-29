@@ -1,0 +1,114 @@
+(Cell	maxim_b_size_cf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	11/23/20,20:47:57)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_17_2_lib.maxim_b_size_cf)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	11/23/20,20:47:57)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_17_2_lib.maxim_b_size_cf)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bb0606e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	11/23/20,20:47:57)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.maxim_b_size_cf)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1e03ac)
+
+		)
+
+		(Checksum	000000001cb103d3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S007 (3864529))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca203a2)
+
+)
+

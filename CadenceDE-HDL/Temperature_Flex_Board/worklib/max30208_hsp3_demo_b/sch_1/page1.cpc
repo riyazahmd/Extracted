@@ -1,0 +1,18 @@
+#ISCELL
+  mml maxim_b_size_cf *
+  *
+#CELL
+  mml cap_np *
+  page1_i3
+#CELL
+  evkit_noncompliant ek_max30208 *
+  page1_i4
+#ISCELL
+  standard gnd_signal *
+  page1_i6
+#ISCELL
+  standard gnd_signal *
+  page1_i7
+#CELL
+  mml tf13ba-6s *
+  page1_i8

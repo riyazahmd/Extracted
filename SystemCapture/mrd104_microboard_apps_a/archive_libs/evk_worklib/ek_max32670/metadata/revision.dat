@@ -1,0 +1,194 @@
+(Cell	ek_max32670
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/22/20,15:56:49)
+
+			(User	Jayson.Navarro)
+
+			(Path	jaysonlib_lib.ek_max32670)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	07/22/20,15:56:49)
+
+					(User	Jayson.Navarro)
+
+					(Path	jaysonlib_lib.ek_max32670)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000034a33eab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/22/20,15:56:49)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.ek_max32670)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3803d7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f58e9137)
+
+			(Primitives	1
+
+				(Primitive	EK_MAX32670_WLP24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/22/20,15:56:49)
+
+							(User	Jayson.Navarro)
+
+							(Path	jaysonlib_lib.ek_max32670)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EK_MAX32670
+
+							(PackType	EK_MAX32670_WLP24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MAXIM_21-100511)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b600380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S007 (3864529))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b330345)
+
+)
+

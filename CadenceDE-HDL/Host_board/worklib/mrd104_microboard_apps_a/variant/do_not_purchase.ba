@@ -1,0 +1,577 @@
+( 
+	(global
+		("VARIANT_NAME" "DO_NOT_PURCHASE")
+		("VARIANT_VIEW" "schdo_not_purchase_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "VARIANT")
+		("VARIANT_DNI" "DNP")
+		("VARIANT_DESIGNATOR" "DNP")
+	)
+	(props
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i114@mml.cap_np(chips)"
+			("VARIANT" "DNP")
+			("LOCATION" "C65")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i247@mml.lis2ds12(chips)"
+			("VARIANT" "DNP")
+			("LOCATION" "U4")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i345@mml.res_smd(chips)"
+			("VARIANT" "DNP")
+			("LOCATION" "R1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i339@mml.tp(chips)"
+			("VARIANT" "DNP")
+			("LOCATION" "B-")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i338@mml.tp(chips)"
+			("VARIANT" "DNP")
+			("LOCATION" "B+")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i130@mml.antenna(chips)"
+			("LOCATION" "ANT1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i139@mml.cap_np(chips)"
+			("LOCATION" "C6")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i141@mml.cap_np(chips)"
+			("LOCATION" "C14")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i136@mml.cap_np(chips)"
+			("LOCATION" "C16")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i81@mml.cap_np(chips)"
+			("LOCATION" "C17")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i103@mml.cap_np(chips)"
+			("LOCATION" "C18")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i120@mml.cap_np(chips)"
+			("LOCATION" "C19")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i79@mml.cap_np(chips)"
+			("LOCATION" "C20")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i101@mml.cap_np(chips)"
+			("LOCATION" "C21")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i111@mml.cap_np(chips)"
+			("LOCATION" "C22")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i123@mml.cap_np(chips)"
+			("LOCATION" "C23")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i76@mml.cap_np(chips)"
+			("LOCATION" "C24")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i98@mml.cap_np(chips)"
+			("LOCATION" "C25")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i108@mml.cap_np(chips)"
+			("LOCATION" "C26")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i126@mml.cap_np(chips)"
+			("LOCATION" "C27")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i72@mml.cap_np(chips)"
+			("LOCATION" "C28")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i94@mml.cap_np(chips)"
+			("LOCATION" "C29")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i90@mml.cap_np(chips)"
+			("LOCATION" "C30")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i88@mml.cap_np(chips)"
+			("LOCATION" "C31")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i86@mml.cap_np(chips)"
+			("LOCATION" "C32")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i303@mml.cap_np(chips)"
+			("LOCATION" "C52")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i309@mml.cap_np(chips)"
+			("LOCATION" "C53")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i304@mml.cap_np(chips)"
+			("LOCATION" "C54")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i307@mml.cap_np(chips)"
+			("LOCATION" "C55")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i132@mml.cap_np(chips)"
+			("LOCATION" "C62")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i117@mml.cap_np(chips)"
+			("LOCATION" "C63")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i128@mml.cap_np(chips)"
+			("LOCATION" "C64")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i181@mml.cap_np(chips)"
+			("LOCATION" "C70")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i290@mml.led_4p(chips)"
+			("LOCATION" "D2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i84@mml.induct(chips)"
+			("LOCATION" "L4")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i134@mml.res_smd(chips)"
+			("LOCATION" "R5")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i302@mml.res_smd(chips)"
+			("LOCATION" "R44")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i300@mml.res_smd(chips)"
+			("LOCATION" "R45")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i293@mml.res_smd(chips)"
+			("LOCATION" "R46")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i294@mml.res_smd(chips)"
+			("LOCATION" "R47")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i292@mml.res_smd(chips)"
+			("LOCATION" "R48")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i298@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R49")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i296@mml.res_smd(chips)"
+			("LOCATION" "R50")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i297@mml.res_smd(chips)"
+			("LOCATION" "R51")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i299@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R52")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i275@mml.res_smd(chips)"
+			("LOCATION" "R53")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i276@mml.res_smd(chips)"
+			("LOCATION" "R54")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i280@mml.res_smd(chips)"
+			("LOCATION" "R55")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i281@mml.res_smd(chips)"
+			("LOCATION" "R56")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i282@mml.res_smd(chips)"
+			("LOCATION" "R57")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i279@mml.res_smd(chips)"
+			("LOCATION" "R58")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i278@mml.res_smd(chips)"
+			("LOCATION" "R59")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i277@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R60")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i284@mml.res_smd(chips)"
+			("LOCATION" "R61")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i285@mml.res_smd(chips)"
+			("LOCATION" "R62")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i312@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R63")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i288@mml.res_smd(chips)"
+			("LOCATION" "R64")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i289@mml.\\434153017835\\(chips)"
+			("LOCATION" "SW1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i179@mml.mx25u51245g_54(chips)"
+			("LOCATION" "U3")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i1@mml.max32666(chips)"
+			("LOCATION" "U5")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i137@mml.xtal(chips)"
+			("LOCATION" "Y1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page3_i138@mml.xtal(chips)"
+			("LOCATION" "Y2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i114@mml.cap_np(chips)"
+			("LOCATION" "C1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i111@mml.cap_np(chips)"
+			("LOCATION" "C2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i106@mml.cap_np(chips)"
+			("LOCATION" "C3")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i118@mml.cap_np(chips)"
+			("LOCATION" "C4")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i123@mml.cap_np(chips)"
+			("LOCATION" "C5")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i154@mml.cap_np(chips)"
+			("LOCATION" "C8")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i130@mml.cap_np(chips)"
+			("LOCATION" "C9")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i120@mml.cap_np(chips)"
+			("LOCATION" "C10")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i327@mml.cap_np(chips)"
+			("LOCATION" "C39")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i340@mml.cap_np(chips)"
+			("LOCATION" "C40")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i328@mml.cap_np(chips)"
+			("LOCATION" "C41")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i341@mml.cap_np(chips)"
+			("LOCATION" "C42")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i329@mml.cap_np(chips)"
+			("LOCATION" "C43")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i326@mml.cap_np(chips)"
+			("LOCATION" "C44")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i325@mml.cap_np(chips)"
+			("LOCATION" "C50")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i331@mml.cap_np(chips)"
+			("LOCATION" "C51")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i301@mml.led_4p(chips)"
+			("LOCATION" "D1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i330@mml.induct(chips)"
+			("LOCATION" "L1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i24@mml.induct(chips)"
+			("LOCATION" "L2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i272@mml.induct(chips)"
+			("LOCATION" "L3")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i39@mml.induct(chips)"
+			("LOCATION" "L5")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i121@mml.res_smd(chips)"
+			("LOCATION" "R14")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i122@mml.res_smd(chips)"
+			("LOCATION" "R15")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i203@mml.res_smd(chips)"
+			("LOCATION" "R43")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i318@mml.res_smd(chips)"
+			("LOCATION" "R65")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i319@mml.res_smd(chips)"
+			("LOCATION" "R66")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i320@mml.res_smd(chips)"
+			("LOCATION" "R67")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i297@mml.res_smd(chips)"
+			("LOCATION" "R68")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i317@mml.res_smd(chips)"
+			("LOCATION" "R69")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i298@mml.res_smd(chips)"
+			("LOCATION" "R70")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i321@mml.res_smd(chips)"
+			("LOCATION" "R71")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i292@mml.thermistor_smd(chips)"
+			("LOCATION" "RT1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i300@mml.\\evp-aaxxxx\\(chips)"
+			("LOCATION" "SW2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page5_i342@evkit_noncompliant.ek_max20360(chips)"
+			("LOCATION" "U1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i255@mml.cap_np(chips)"
+			("LOCATION" "C7")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i122@mml.cap_np(chips)"
+			("LOCATION" "C11")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i252@mml.cap_np(chips)"
+			("LOCATION" "C12")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i275@mml.cap_np(chips)"
+			("LOCATION" "C13")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i256@mml.cap_np(chips)"
+			("LOCATION" "C15")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i173@mml.cap_np(chips)"
+			("LOCATION" "C33")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i172@mml.cap_np(chips)"
+			("LOCATION" "C34")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i181@mml.cap_np(chips)"
+			("LOCATION" "C35")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i179@mml.cap_np(chips)"
+			("LOCATION" "C36")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i164@mml.cap_np(chips)"
+			("LOCATION" "C37")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i166@mml.cap_np(chips)"
+			("LOCATION" "C38")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i292@mml.cap_np(chips)"
+			("LOCATION" "C45")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i288@mml.cap_np(chips)"
+			("LOCATION" "C46")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i318@mml.cap_np(chips)"
+			("LOCATION" "C47")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i326@mml.cap_np(chips)"
+			("LOCATION" "C48")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i324@mml.cap_np(chips)"
+			("LOCATION" "C49")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i346@mml.cap_np(chips)"
+			("LOCATION" "C56")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i354@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C57")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i353@evkit_noncompliant.ek_cap_np(chips)"
+			("LOCATION" "C58")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i311@mml.cap_np(chips)"
+			("LOCATION" "C66")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i308@mml.cap_np(chips)"
+			("LOCATION" "C67")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i260@mml.\\tf13ba-6s\\(chips)"
+			("LOCATION" "J1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i80@mml.\\fh26-25s\\(chips)"
+			("LOCATION" "J2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i296@mml.dx07s024jj3(chips)"
+			("LOCATION" "J4")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i303@mml.ferritebead(chips)"
+			("LOCATION" "L7")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i309@mml.ferritebead(chips)"
+			("LOCATION" "L8")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i216@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i218@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R3")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i217@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R4")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i282@mml.res_smd(chips)"
+			("LOCATION" "R6")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i277@mml.res_smd(chips)"
+			("LOCATION" "R7")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i212@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R8")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i334@mml.res_smd(chips)"
+			("LOCATION" "R9")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i333@mml.res_smd(chips)"
+			("LOCATION" "R10")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i219@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R11")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i213@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R12")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i293@mml.res_smd(chips)"
+			("LOCATION" "R13")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i273@mml.res_smd(chips)"
+			("LOCATION" "R16")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i214@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R17")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i366@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R18")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i267@mml.res_smd(chips)"
+			("LOCATION" "R19")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i268@mml.res_smd(chips)"
+			("LOCATION" "R20")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i367@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R21")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i262@mml.res_smd(chips)"
+			("LOCATION" "R22")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i271@mml.res_smd(chips)"
+			("LOCATION" "R23")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i177@mml.res_smd(chips)"
+			("LOCATION" "R24")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i185@mml.res_smd(chips)"
+			("LOCATION" "R25")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i215@mml.res_smd(chips)"
+			("LOCATION" "R26")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i304@mml.res_smd(chips)"
+			("LOCATION" "R27")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i195@mml.res_smd(chips)"
+			("LOCATION" "R28")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i196@mml.res_smd(chips)"
+			("LOCATION" "R29")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i365@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R30")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i203@mml.res_smd(chips)"
+			("LOCATION" "R31")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i199@mml.res_smd(chips)"
+			("LOCATION" "R32")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i197@mml.res_smd(chips)"
+			("LOCATION" "R33")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i198@mml.res_smd(chips)"
+			("LOCATION" "R34")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i200@mml.res_smd(chips)"
+			("LOCATION" "R35")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i201@mml.res_smd(chips)"
+			("LOCATION" "R36")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i160@mml.res_smd(chips)"
+			("LOCATION" "R37")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i364@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R38")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i340@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R39")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i342@mml.res_smd(chips)"
+			("LOCATION" "R40")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i339@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R41")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i341@mml.res_smd(chips)"
+			("LOCATION" "R42")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i348@mml.res_smd(chips)"
+			("LOCATION" "R72")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i351@mml.res_smd(chips)"
+			("LOCATION" "R73")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i349@mml.res_smd(chips)"
+			("LOCATION" "R74")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i357@mml.res_smd(chips)"
+			("LOCATION" "R75")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i362@mml.res_smd(chips)"
+			("LOCATION" "R76")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i363@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R77")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i361@mml.res_smd(chips)"
+			("LOCATION" "R78")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i360@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R79")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i368@evkit_noncompliant.ek_res_smd(chips)"
+			("LOCATION" "R80")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i149@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP1")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i148@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i249@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP3")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i156@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP7")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i154@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP8")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i153@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP9")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i152@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP10")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i151@evkit_noncompliant.evkit_tp(chips)"
+			("LOCATION" "TP11")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i159@evkit_noncompliant.ek_max32670(chips)"
+			("LOCATION" "U2")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i370@mml.max9062(chips)"
+			("LOCATION" "U6")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i369@mml.max9062(chips)"
+			("LOCATION" "U7")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i371@mml.max3207(chips)"
+			("LOCATION" "U8")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i300@mml.max4737(chips)"
+			("LOCATION" "U9")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i298@mml.max4737(chips)"
+			("LOCATION" "U10")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i320@mml.max14689(chips)"
+			("LOCATION" "U11")
+		)
+		("@mrd104_microboard_apps_a_lib.mrd104_microboard_apps_a(sch_1):page2_i178@mml.xtal(chips)"
+			("LOCATION" "Y3")
+		)
+	)
+)

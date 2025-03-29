@@ -1,0 +1,677 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'EK_CAP_NP_0402_FF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC1005X50L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0201_FF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC0603X23L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0603_FF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC1608X90L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0805_FF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC2012X145L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1210';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='1210';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1206';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='1206';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0805';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0805';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1206_FF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC3216X90L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0402';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0402';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0201_RF';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0402';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0201';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='EK_0201L';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0805_1206';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='EK_CAP_0805_1206';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0603_0805';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='EK_CAP_0603_0805';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_2220CAP_STACK_CAP';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC6050X550L160M';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0603';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1812CAP_STACK_CAP';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='KEMET_7805';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_3025';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC7563X280';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1812';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC7563X280';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0603_AUTO';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_2220CAP_Y-AXIS';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC5725X540M';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0805_1';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC2012X140M';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_01005';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='CAPC7563X280';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_CAP_DUAL';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='EK_CAP_DUAL_0603_0402';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_1206_1';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='1206';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'EK_CAP_NP_0603_1';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PIN_GROUP='val 1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='EK_CAP_NP';
+    NO_DIR_CHECK='TRUE';
+    BODY_NAME='EK_CAP_NP';
+    JEDEC_TYPE='0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,18 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RES'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE     | VALUE  | MAXINV        = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                                             | POWER_RATING | TEMP_COEF     | BOM | STATUS   |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | RES | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | TEMP_RANGE | MANUFACTURER ;
+{========================================================================================}
+'0201RES' | 'RESC0603X33M' | '49.9' |'80-049R9-95'(!) = 'ERJ-1GEF49R9'| 'SMT (0201)' | 'THICK FILM' | '1%'      |'RES; SMT (0201); 49.9; 1%; +/-100PPM/DEGC; 0.0500W'|'0.0500W'| '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-049R9-95'| 'HQ(177):HBO(328):MPOC(706)' | 'N/A' | '4.99E01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0110)' | '-55 DEGC TO +155 DEGC' | 'PANASONIC'  : ALT_SYMBOLS = '0201_NOSILK,RESC0603X23L'
+'0201RES' | 'RESC0603X33M' | '0'    |'80-0000R-95'(!)   = 'CRCW02010000ZS;ERJ-1GN0R00'| 'SMT (0201)' | 'THICK FILM' | '1%'      |'RES; SMT (0201); 0; 1%; JUMPER; 0.0500W'|'0.0500W'|'JUMPER'| 'Y' | 'ACTIVE' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0000R-95'| 'HQ(6100):HBO(1555):MPOC(2151)' | 'N/A' | '0.00000001E00' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0040)' | '-55 DEGC TO +155 DEGC' |'VISHAY DALE;PANASONIC'  : ALT_SYMBOLS = '0201_NOSILK,RESC0603X23L'
+'0201RES' | 'RESC0603X33M' | '10'   |'80-0010R-95'(!)  = 'ERJ-1GEF10R0'| 'SMT (0201)' | 'THICK FILM' | '1%'      |'RES; SMT (0201); 10; 1%; +/-100PPM/DEGC; 0.0500W'|'0.0500W'| '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0010R-95'| 'HQ(30):HBO(26):MPOC(139)' | 'N/A' | '1.00E01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0180)' | '-55 DEGC TO +155 DEGC' | 'PANASONIC'    : ALT_SYMBOLS =   '0201_NOSILK,RESC0603X23L'
+'0201RES' | 'RESC0603X33M' | '100'  |'80-0100R-95'(!)  = 'CRCW0201100RFK;ERJ-1GEF1000C'| 'SMT (0201)' | 'THICK FILM' | '1%'      |'RES; SMT (0201); 100; 1%; +/-100PPM/DEGC; 0.0500W'|'0.0500W'| '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0100R-95'| 'HQ(963):HBO(405):MPOC(1361)' | 'N/A' | '1.00E02' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0340)' | '-55 DEGC TO +155 DEGC' |'VISHAY DALE;PANASONIC'  : ALT_SYMBOLS = '0201_NOSILK,RESC0603X23L'
+
+END_PART
+
+END.
+
+
+

@@ -1,0 +1,1063 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 17.4-2019 S012 (3898062) 10/18/2020 on Wed Nov 25 16:38:52 2020
+#ISCELL
+  mml maxim_b_size_cf *
+  *
+#CELL
+  mml cap_np *
+  page5_i106
+#CELL
+  mml cap_np *
+  page5_i111
+#ISCELL
+  standard pground *
+  page5_i112
+#ISCELL
+  standard pground *
+  page5_i113
+#CELL
+  mml cap_np *
+  page5_i114
+#ISCELL
+  standard pground *
+  page5_i115
+#CELL
+  mml cap_np *
+  page5_i118
+#CELL
+  mml cap_np *
+  page5_i120
+#CELL
+  mml res_smd *
+  page5_i121
+#CELL
+  mml res_smd *
+  page5_i122
+#CELL
+  mml cap_np *
+  page5_i123
+#ISCELL
+  standard pground *
+  page5_i124
+#CELL
+  mml cap_np *
+  page5_i130
+#ISCELL
+  standard pground *
+  page5_i131
+#ISCELL
+  standard pground *
+  page5_i144
+#CELL
+  mml cap_np *
+  page5_i154
+#ISCELL
+  standard pground *
+  page5_i155
+#ISCELL
+  standard pground *
+  page5_i157
+#ISCELL
+  standard pground *
+  page5_i166
+#ISCELL
+  standard pground *
+  page5_i168
+#ISCELL
+  standard pground *
+  page5_i18
+#CELL
+  mml res_smd *
+  page5_i203
+#CELL
+  mml induct *
+  page5_i24
+#CELL
+  mml induct *
+  page5_i272
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i282
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i287
+#CELL
+  mml thermistor_smd *
+  page5_i292
+#ISCELL
+  standard pground *
+  page5_i293
+#ISCELL
+  standard pground *
+  page5_i296
+#CELL
+  mml res_smd *
+  page5_i297
+#CELL
+  mml res_smd *
+  page5_i298
+#CELL
+  mml evp-aaxxxx *
+  page5_i300
+#CELL
+  mml led_4p *
+  page5_i301
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i302
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i303
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i304
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i305
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i306
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i307
+#ISCELL
+  standard pground *
+  page5_i311
+#ISCELL
+  standard pground *
+  page5_i313
+#ISCELL
+  standard pground *
+  page5_i316
+#CELL
+  mml res_smd *
+  page5_i317
+#CELL
+  mml res_smd *
+  page5_i318
+#CELL
+  mml res_smd *
+  page5_i319
+#CELL
+  mml res_smd *
+  page5_i320
+#CELL
+  mml res_smd *
+  page5_i321
+#ISCELL
+  mml mml_vcc_bar *
+  page5_i322
+#CELL
+  mml cap_np *
+  page5_i325
+#CELL
+  mml cap_np *
+  page5_i326
+#CELL
+  mml cap_np *
+  page5_i327
+#CELL
+  mml cap_np *
+  page5_i328
+#CELL
+  mml cap_np *
+  page5_i329
+#CELL
+  mml induct *
+  page5_i330
+#CELL
+  mml cap_np *
+  page5_i331
+#ISCELL
+  standard pground *
+  page5_i332
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i333
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i334
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i335
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i336
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i337
+#CELL
+  mml tp *
+  page5_i338
+#CELL
+  mml tp *
+  page5_i339
+#CELL
+  mml cap_np *
+  page5_i340
+#CELL
+  mml cap_np *
+  page5_i341
+#CELL
+  evkit_noncompliant ek_max20360 *
+  page5_i342
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i343
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i344
+#ISCELL
+  mml mml_vcc_arrow *
+  page5_i345
+#CELL
+  mml induct *
+  page5_i39
+#ISCELL
+  standard pground *
+  page5_i92
+#ISCELL
+  mml maxim_c_size_cf *
+  *
+#ISCELL
+  standard gnd_power *
+  page2_i115
+#ISCELL
+  standard gnd_power *
+  page2_i116
+#ISCELL
+  standard gnd_power *
+  page2_i119
+#ISCELL
+  standard gnd_power *
+  page2_i120
+#ISCELL
+  standard gnd_power *
+  page2_i121
+#CELL
+  mml cap_np *
+  page2_i122
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i148
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i149
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i151
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i152
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i153
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i154
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i155
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i156
+#CELL
+  evkit_noncompliant ek_max32670 *
+  page2_i159
+#CELL
+  mml res_smd *
+  page2_i160
+#CELL
+  mml cap_np *
+  page2_i164
+#CELL
+  mml cap_np *
+  page2_i166
+#CELL
+  mml cap_np *
+  page2_i172
+#CELL
+  mml cap_np *
+  page2_i173
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i176
+#CELL
+  mml res_smd *
+  page2_i177
+#CELL
+  mml xtal *
+  page2_i178
+#CELL
+  mml cap_np *
+  page2_i179
+#CELL
+  mml cap_np *
+  page2_i181
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i182
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i183
+#CELL
+  mml res_smd *
+  page2_i185
+#CELL
+  mml res_smd *
+  page2_i195
+#CELL
+  mml res_smd *
+  page2_i196
+#CELL
+  mml res_smd *
+  page2_i197
+#CELL
+  mml res_smd *
+  page2_i198
+#CELL
+  mml res_smd *
+  page2_i199
+#CELL
+  mml res_smd *
+  page2_i200
+#CELL
+  mml res_smd *
+  page2_i201
+#CELL
+  mml res_smd *
+  page2_i203
+#ISCELL
+  standard gnd_power *
+  page2_i204
+#ISCELL
+  standard gnd_power *
+  page2_i205
+#ISCELL
+  standard gnd_power *
+  page2_i206
+#ISCELL
+  standard gnd_power *
+  page2_i207
+#ISCELL
+  standard gnd_power *
+  page2_i208
+#ISCELL
+  standard gnd_power *
+  page2_i209
+#ISCELL
+  standard gnd_power *
+  page2_i210
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i212
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i213
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i214
+#CELL
+  mml res_smd *
+  page2_i215
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i216
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i217
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i218
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i219
+#ISCELL
+  standard gnd_power *
+  page2_i220
+#ISCELL
+  standard gnd_power *
+  page2_i242
+#ISCELL
+  standard gnd_power *
+  page2_i243
+#CELL
+  mml lis2ds12 *
+  page2_i247
+#CELL
+  evkit_noncompliant evkit_tp *
+  page2_i249
+#ISCELL
+  standard gnd_power *
+  page2_i250
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i251
+#CELL
+  mml cap_np *
+  page2_i252
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i253
+#CELL
+  mml cap_np *
+  page2_i255
+#CELL
+  mml cap_np *
+  page2_i256
+#ISCELL
+  standard gnd_power *
+  page2_i257
+#ISCELL
+  standard gnd_power *
+  page2_i259
+#CELL
+  mml tf13ba-6s *
+  page2_i260
+#ISCELL
+  standard gnd_power *
+  page2_i261
+#CELL
+  mml res_smd *
+  page2_i262
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i265
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i266
+#CELL
+  mml res_smd *
+  page2_i267
+#CELL
+  mml res_smd *
+  page2_i268
+#CELL
+  mml res_smd *
+  page2_i271
+#CELL
+  mml res_smd *
+  page2_i273
+#CELL
+  mml cap_np *
+  page2_i275
+#ISCELL
+  standard gnd_power *
+  page2_i276
+#CELL
+  mml res_smd *
+  page2_i277
+#ISCELL
+  standard gnd_power *
+  page2_i278
+#ISCELL
+  standard gnd_power *
+  page2_i279
+#ISCELL
+  standard gnd_power *
+  page2_i281
+#CELL
+  mml res_smd *
+  page2_i282
+#ISCELL
+  standard gnd_power *
+  page2_i283
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i284
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i286
+#ISCELL
+  standard gnd_power *
+  page2_i287
+#CELL
+  mml cap_np *
+  page2_i288
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i289
+#ISCELL
+  standard gnd_power *
+  page2_i290
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i291
+#CELL
+  mml cap_np *
+  page2_i292
+#CELL
+  mml res_smd *
+  page2_i293
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i294
+#ISCELL
+  standard gnd_power *
+  page2_i295
+#CELL
+  mml dx07s024jj3 *
+  page2_i296
+#ISCELL
+  standard gnd_earth *
+  page2_i297
+#CELL
+  mml max4737 *
+  page2_i298
+#ISCELL
+  standard gnd_power *
+  page2_i299
+#CELL
+  mml max4737 *
+  page2_i300
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i301
+#ISCELL
+  standard gnd_power *
+  page2_i302
+#CELL
+  mml ferritebead *
+  page2_i303
+#CELL
+  mml res_smd *
+  page2_i304
+#ISCELL
+  standard gnd_power *
+  page2_i305
+#ISCELL
+  standard gnd_power *
+  page2_i306
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i307
+#CELL
+  mml cap_np *
+  page2_i308
+#CELL
+  mml ferritebead *
+  page2_i309
+#ISCELL
+  standard gnd_power *
+  page2_i310
+#CELL
+  mml cap_np *
+  page2_i311
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i312
+#ISCELL
+  standard gnd_power *
+  page2_i313
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i314
+#ISCELL
+  standard gnd_power *
+  page2_i315
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i316
+#ISCELL
+  standard gnd_power *
+  page2_i317
+#CELL
+  mml cap_np *
+  page2_i318
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i319
+#CELL
+  mml max14689 *
+  page2_i320
+#ISCELL
+  standard gnd_power *
+  page2_i321
+#ISCELL
+  standard gnd_power *
+  page2_i322
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i323
+#CELL
+  mml cap_np *
+  page2_i324
+#ISCELL
+  standard gnd_power *
+  page2_i325
+#CELL
+  mml cap_np *
+  page2_i326
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i327
+#ISCELL
+  standard gnd_power *
+  page2_i329
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i330
+#ISCELL
+  mml mml_vcc_bar *
+  page2_i332
+#CELL
+  mml res_smd *
+  page2_i333
+#CELL
+  mml res_smd *
+  page2_i334
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i335
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i339
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i340
+#CELL
+  mml res_smd *
+  page2_i341
+#CELL
+  mml res_smd *
+  page2_i342
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i343
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i344
+#CELL
+  mml res_smd *
+  page2_i345
+#CELL
+  mml cap_np *
+  page2_i346
+#ISCELL
+  standard gnd_power *
+  page2_i347
+#CELL
+  mml res_smd *
+  page2_i348
+#CELL
+  mml res_smd *
+  page2_i349
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i350
+#CELL
+  mml res_smd *
+  page2_i351
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i352
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i353
+#CELL
+  evkit_noncompliant ek_cap_np *
+  page2_i354
+#ISCELL
+  standard gnd_power *
+  page2_i355
+#ISCELL
+  standard gnd_power *
+  page2_i356
+#CELL
+  mml res_smd *
+  page2_i357
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i358
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i359
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i360
+#CELL
+  mml res_smd *
+  page2_i361
+#CELL
+  mml res_smd *
+  page2_i362
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i363
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i364
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i365
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i366
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i367
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page2_i368
+#CELL
+  mml max9062 *
+  page2_i369
+#CELL
+  mml max9062 *
+  page2_i370
+#CELL
+  mml max3207 *
+  page2_i371
+#CELL
+  mml fh26-25s *
+  page2_i80
+#ISCELL
+  mml maxim_c_size_cf *
+  *
+#CELL
+  mml max32666 *
+  page3_i1
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i100
+#CELL
+  mml cap_np *
+  page3_i101
+#ISCELL
+  standard gnd_power *
+  page3_i102
+#CELL
+  mml cap_np *
+  page3_i103
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i104
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i105
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i106
+#ISCELL
+  standard gnd_power *
+  page3_i107
+#CELL
+  mml cap_np *
+  page3_i108
+#ISCELL
+  standard gnd_power *
+  page3_i109
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i110
+#CELL
+  mml cap_np *
+  page3_i111
+#ISCELL
+  standard gnd_power *
+  page3_i112
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i113
+#CELL
+  mml cap_np *
+  page3_i114
+#ISCELL
+  standard gnd_power *
+  page3_i115
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i116
+#CELL
+  mml cap_np *
+  page3_i117
+#ISCELL
+  standard gnd_power *
+  page3_i118
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i119
+#CELL
+  mml cap_np *
+  page3_i120
+#ISCELL
+  standard gnd_power *
+  page3_i121
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i122
+#CELL
+  mml cap_np *
+  page3_i123
+#ISCELL
+  standard gnd_power *
+  page3_i124
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i125
+#CELL
+  mml cap_np *
+  page3_i126
+#ISCELL
+  standard gnd_power *
+  page3_i127
+#CELL
+  mml cap_np *
+  page3_i128
+#ISCELL
+  standard gnd_power *
+  page3_i129
+#CELL
+  mml antenna *
+  page3_i130
+#ISCELL
+  standard gnd_power *
+  page3_i131
+#CELL
+  mml cap_np *
+  page3_i132
+#ISCELL
+  standard gnd_power *
+  page3_i133
+#CELL
+  mml res_smd *
+  page3_i134
+#ISCELL
+  standard gnd_power *
+  page3_i135
+#CELL
+  mml cap_np *
+  page3_i136
+#CELL
+  mml xtal *
+  page3_i137
+#CELL
+  mml xtal *
+  page3_i138
+#CELL
+  mml cap_np *
+  page3_i139
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i140
+#CELL
+  mml cap_np *
+  page3_i141
+#ISCELL
+  standard gnd_power *
+  page3_i142
+#ISCELL
+  standard gnd_power *
+  page3_i143
+#ISCELL
+  standard gnd_power *
+  page3_i144
+#ISCELL
+  standard gnd_power *
+  page3_i145
+#ISCELL
+  standard gnd_power *
+  page3_i146
+#CELL
+  mml mx25u51245g_54 *
+  page3_i179
+#ISCELL
+  standard gnd_power *
+  page3_i180
+#CELL
+  mml cap_np *
+  page3_i181
+#ISCELL
+  mml mml_vcc_arrow *
+  page3_i182
+#ISCELL
+  standard gnd_power *
+  page3_i183
+#CELL
+  mml res_smd *
+  page3_i275
+#CELL
+  mml res_smd *
+  page3_i276
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page3_i277
+#CELL
+  mml res_smd *
+  page3_i278
+#CELL
+  mml res_smd *
+  page3_i279
+#CELL
+  mml res_smd *
+  page3_i280
+#CELL
+  mml res_smd *
+  page3_i281
+#CELL
+  mml res_smd *
+  page3_i282
+#CELL
+  mml res_smd *
+  page3_i284
+#CELL
+  mml res_smd *
+  page3_i285
+#CELL
+  mml res_smd *
+  page3_i288
+#CELL
+  mml 434153017835 *
+  page3_i289
+#CELL
+  mml led_4p *
+  page3_i290
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i291
+#CELL
+  mml res_smd *
+  page3_i292
+#CELL
+  mml res_smd *
+  page3_i293
+#CELL
+  mml res_smd *
+  page3_i294
+#ISCELL
+  standard gnd_power *
+  page3_i295
+#CELL
+  mml res_smd *
+  page3_i296
+#CELL
+  mml res_smd *
+  page3_i297
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page3_i298
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page3_i299
+#CELL
+  mml res_smd *
+  page3_i300
+#ISCELL
+  mml mml_vcc_arrow *
+  page3_i301
+#CELL
+  mml res_smd *
+  page3_i302
+#CELL
+  mml cap_np *
+  page3_i303
+#CELL
+  mml cap_np *
+  page3_i304
+#ISCELL
+  standard pground *
+  page3_i305
+#ISCELL
+  standard pground *
+  page3_i306
+#CELL
+  mml cap_np *
+  page3_i307
+#ISCELL
+  standard pground *
+  page3_i308
+#CELL
+  mml cap_np *
+  page3_i309
+#ISCELL
+  standard gnd_power *
+  page3_i310
+#ISCELL
+  standard gnd_power *
+  page3_i311
+#CELL
+  evkit_noncompliant ek_res_smd *
+  page3_i312
+#CELL
+  mml cap_np *
+  page3_i72
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i73
+#ISCELL
+  standard gnd_power *
+  page3_i74
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i75
+#CELL
+  mml cap_np *
+  page3_i76
+#ISCELL
+  standard gnd_power *
+  page3_i77
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i78
+#CELL
+  mml cap_np *
+  page3_i79
+#ISCELL
+  standard gnd_power *
+  page3_i80
+#CELL
+  mml cap_np *
+  page3_i81
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i82
+#ISCELL
+  standard gnd_power *
+  page3_i83
+#CELL
+  mml induct *
+  page3_i84
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i85
+#CELL
+  mml cap_np *
+  page3_i86
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i87
+#CELL
+  mml cap_np *
+  page3_i88
+#ISCELL
+  standard gnd_power *
+  page3_i89
+#CELL
+  mml cap_np *
+  page3_i90
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i91
+#ISCELL
+  standard gnd_power *
+  page3_i92
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i93
+#CELL
+  mml cap_np *
+  page3_i94
+#ISCELL
+  standard gnd_power *
+  page3_i95
+#ISCELL
+  standard gnd_power *
+  page3_i96
+#ISCELL
+  mml mml_vcc_bar *
+  page3_i97
+#CELL
+  mml cap_np *
+  page3_i98
+#ISCELL
+  standard gnd_power *
+  page3_i99

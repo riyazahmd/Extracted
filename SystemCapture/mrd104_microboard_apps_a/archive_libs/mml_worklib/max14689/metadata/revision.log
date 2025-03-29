@@ -1,0 +1,14 @@
+	(Comment
+		(Time 02/08/19,13:45:10)
+		(User Mariel.Mabituin)
+		(MsgId ECO_021)
+		(Text "Package MAX14689_WLP91 added to cell")
+		(Param1 "MAX14689_WLP91")
+	)
+	(Comment
+		(Time 02/08/19,13:47:53)
+		(User Mariel.Mabituin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)

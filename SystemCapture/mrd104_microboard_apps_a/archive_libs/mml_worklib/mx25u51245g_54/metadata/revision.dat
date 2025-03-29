@@ -1,0 +1,234 @@
+(Cell	mx25u51245g_54
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/20,16:58:49)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_17_2_lib.mx25u51245g_54)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	02/13/20,16:58:49)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_17_2_lib.mx25u51245g_54)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cb4d0c00)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/20,16:58:49)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.mx25u51245g_54)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ad1613a5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/20,16:58:49)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.mx25u51245g_54)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b490387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000abaf3f85)
+
+			(Primitives	1
+
+				(Primitive	MX25U51245G_54_WSON8-EP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/20,16:58:49)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.mx25u51245g_54)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MX25U51245G_54
+
+							(PackType	MX25U51245G_54_WSON8-EP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SON127P600X800X80-9M)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0a03b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.4-2019 S002 (3832364))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c68039e)
+
+)
+

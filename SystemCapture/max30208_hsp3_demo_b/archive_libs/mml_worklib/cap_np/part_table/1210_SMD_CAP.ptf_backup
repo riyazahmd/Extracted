@@ -1,0 +1,46 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAP_NP'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE | VALUE  | MAXINV         = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                                                                                | VOLTAGE_RATING |  TEMP_COEF  | TEMP_RANGE            | BOM | STATUS            |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | CAP | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | MANUFACTURER ;
+{========================================================================================}
+'1210CAP' | '1210'     | '1UF'  |'20-0001U-B40'(!) = 'C1210C105K5RAC'| 'SMT (1210)' | 'CERAMIC' | '10%'     |'CAP; SMT (1210); 1UF; 10%; 50V; X7R; CERAMIC'| '50V'          | 'X7R' |'-55 DEGC TO +125 DEGC'| 'Y' | 'TEMPLATE'          |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0001U-B40'| 'HQ(165):HBO(346):MPOC(620)' | 'N/A' | '1.00E-06' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.1220)' | 'KEMET' 
+'1210CAP' | '1210'     | '10UF' |'20-0010U-C9'(!) = 'C1210C106M3RAC; GRM32DR71E106M; C3225X7R1E106M250AC'| 'SMT (1210)' | 'CERAMIC' | '20%'     |'CAP; SMT (1210); 10UF; 20%; 25V; X7R; CERAMIC; NOTE: NOT RECOMMENDED FOR NEW DESIGN. USE 20-0010u-G9'| '25V'          | 'X7R' | '-55 DEGC TO +125 DEGC' | 'Y' | 'NOT RECOMMENDED' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=20-0010U-C9'| 'HQ(497):HBO(305):MPOC(775)'   | 'N/A' | '1.00E-05' | 'CAP:INTEGER' | '-' | 'TRUE' | '($0.3880)' |'KEMET;MURATA;TDK'  : ALT_SYMBOLS = 'CAPC3225X270L'
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

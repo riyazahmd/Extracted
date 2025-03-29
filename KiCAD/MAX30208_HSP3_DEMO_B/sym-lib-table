@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MAX30208_HSP3_DEMO_B-lib)(type Legacy)(uri ${KIPRJMOD}/MAX30208_HSP3_DEMO_B-lib.lib)(options "")(descr ""))
+)

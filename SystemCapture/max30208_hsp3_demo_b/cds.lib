@@ -1,0 +1,5 @@
+DEFINE worklib ./worklib
+DEFINE max30208_hsp3_demo_b_lib ./max30208_hsp3_demo_b_lib
+DEFINE evkit_noncompliant ./archive_libs/evk_worklib
+DEFINE standard ./archive_libs/standard
+DEFINE mml ./archive_libs/mml_worklib

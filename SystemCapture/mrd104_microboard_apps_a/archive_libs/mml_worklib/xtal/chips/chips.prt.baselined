@@ -1,0 +1,150 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'XTAL','XTAL_XTAL1200X480X400M';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL1200X480X400M';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL_HC-49';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL_HC-49';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_OSCL550P350X800X370-4M';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='OSCL550P350X800X370-4M';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+    NC_PINS='(2,3)';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL_MC405';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL_MC405';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL_DT26';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    ALT_SYMBOLS='(xtal_dt26_v)';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL_DT26';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL_JXG53P2';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL_JXG53P2';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL600X360X120M';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL600X360X120M';
+    PHYS_DES_PREFIX='Y';
+    CLASS='DISCRETE';
+    NC_PINS='(2,4)';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_XTAL1200X480X460M-4M';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'P2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='XTAL';
+    BODY_NAME='XTAL';
+    JEDEC_TYPE='XTAL1200X480X460M-4M';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    NC_PINS='(2,3)';
+  end_body;
+end_primitive;
+
+END.

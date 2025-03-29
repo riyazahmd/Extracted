@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MAX86176_WRIST_EVKIT_D-lib)(type Legacy)(uri ${KIPRJMOD}/MAX86176_WRIST_EVKIT_D-lib.lib)(options "")(descr ""))
+)

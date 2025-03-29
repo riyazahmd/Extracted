@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EK_MAX32670'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'         |'VALUE'         |'MAXINV'   = 'MFG_PART_NUMBER'    |'MANUFACTURER'    |'TOLERANCE'    |'DESCRIPTION'                                                                                                                               |'VOLTAGE_RATING'    |'TEMP_RANGE'    |'BOM'    |'LEAD_LENGTH'    |'STATUS'          |'AUTOMOTIVE'    |'DATASHEET_URL'                                      |'EST_STOCK_STATUS'           |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+'WLP24'  		|  'MAXIM_21-100511'  		|  'MAX32670GWG+'  		|  'N/A'(!) = 'MAX32670GWG+'  	|  'MAXIM'  	|  'N/A'  	|  'EVKIT PART - IC; MAX32670GWG+; PACKAGE OUTLINE DRAWING: 21-100151; PACKAGE CODE: W241H2+1; WLP24'  	|  'N/A'  	|  'N/A'  	|  'Y'  	|  'N/A'  	|  'EVKIT-CUSTOM'  	|  'NO'  	|  'file://\\MAXCAVFS01\TEMP_DATASHEETS\EK_MAX32670'  	|  'HQ(00):HBO(00):MPOC(00)'  	|  '-'  	|  'FALSE'  	|  '($00)'
+
+END_PART
+
+END.

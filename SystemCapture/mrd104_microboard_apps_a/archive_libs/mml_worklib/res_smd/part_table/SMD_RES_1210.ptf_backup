@@ -1,0 +1,45 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RES'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE     | VALUE | MAXINV        = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                              | POWER_RATING | TEMP_COEF     | BOM | STATUS   |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | RES | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | TEMP_RANGE | MANUFACTURER ;
+{========================================================================================}
+'1210RES' | 'RESC3225X65M' | '10K' |'80-0010K-67'(!) = 'CRCW121010K0FK'| 'SMT (1210)' | 'THICK FILM' | '1%'      | 'RESISTOR; 1210; 10K OHM; 1%; 100PPM; 0.33W; THICK FILM' |'0.3300W'| '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0010K-67'| 'HQ(131):HBO(75):MPOC(577)' | 'N/A' | '1.00E04' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0900)' | '-55 DEGC TO +155 DEGC' | 'VISHAY DALE' 
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

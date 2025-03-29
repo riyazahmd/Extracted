@@ -1,0 +1,11 @@
+\t (00:49:02) allegro 17.4 S013 Windows SPB 64-bit Edition
+\t (00:49:02)     Journal start - Thu Jan  7 14:19:34 2021
+\t (00:49:02)         Host=JEFFK-W10LT User=JeffK Pid=1784 CPUs=4
+\t (00:49:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:49:02) 
+\d (00:49:02) Design opened: C:/GOPU/Designs/Maxim/maxrefdes104/MAXREFDES104_Host_board/worklib/mrd104_microboard_apps_a/physical/mrd104_microboard_apps_a.brd
+\i (00:49:02) placementedit 
+\i (00:49:06) zoom fit 
+\i (00:49:06) trapsize 584
+\i (00:52:26) exit 
+\t (00:52:26)     Journal end - Thu Jan  7 14:22:59 2021

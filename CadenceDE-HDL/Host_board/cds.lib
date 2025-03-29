@@ -1,0 +1,2 @@
+DEFINE mrd104_microboard_apps_a_lib worklib
+INCLUDE $CDS_SITE/cdssetup/cds.lib

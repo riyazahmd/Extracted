@@ -1,0 +1,1 @@
+SPLBPD-972,Cell 'max14689':Missing parentheses in the ALT_SYMBOLS property in the following part name: MAX14689_WLP9-BGA9C40P3X3_126X126X69M,MAX14689EWL+,10-MAX14689EWL-W. Ensure that the ALT_SYMBOLS value is enclosed in parentheses in Part Table Editor and save the cell.,Error

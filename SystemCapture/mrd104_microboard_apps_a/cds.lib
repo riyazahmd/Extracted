@@ -1,0 +1,5 @@
+DEFINE worklib ./worklib
+DEFINE mrd104_microboard_apps_a_lib ./mrd104_microboard_apps_a_lib
+DEFINE evkit_noncompliant ./archive_libs/evk_worklib
+DEFINE standard ./archive_libs/standard
+DEFINE mml ./archive_libs/mml_worklib

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MX25U51245G_54'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'            |'VALUE'          |'MAXINV'              = 'MFG_PART_NUMBER'    |'MANUFACTURER'                      |'CLASSIFICATION'    |'CASE'        |'TOLERANCE'    |'DESCRIPTION'                                                        |'VOLTAGE_RATING'    |'TEMP_RANGE'              |'BOM'    |'LEAD_LENGTH'    |'STATUS'                |  'AUTOMOTIVE'  |'SAP_STATUS'    |'DATASHEET_URL'                                                                             |'EST_STOCK_STATUS'        |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    ;
+{========================================================================================}
+'WSON8-EP'  		|  'SON127P600X800X80-9M'  		|  'MX25U51245GZ4I54'  		|  'EQ111000004114'(!) = 'MX25U51245GZ4I54'  	|  'MACRONIX INTERNATIONAL CO LTD'  	|  'MEMORY'  	|  'WSON8-EP'  	|  'N/A'  	|  'IC; MMRY; CMOS MXSMIO; SERIAL MULTI I/O; FLASH MEMORY; WSON8-EP'  	|  '+1.65V TO +2.0V'  	|  '-40 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'ACTIVE'  	|  'NO'  |  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EQ111000004114'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($7.8100)'
+
+END_PART
+
+END.
+

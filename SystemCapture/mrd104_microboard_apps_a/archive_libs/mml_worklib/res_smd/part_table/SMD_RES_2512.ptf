@@ -1,0 +1,53 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RES'
+
+{========================================================================================}
+:PACK_TYPE | JEDEC_TYPE     | VALUE  | MAXINV        = MFG_PART_NUMBER |  CASE  |  MATERIAL_TYPE  | TOLERANCE | DESCRIPTION                                               | POWER_RATING | TEMP_COEF         | BOM | STATUS   |  AUTOMOTIVE  |  SAP_STATUS  | DATASHEET_URL | EST_STOCK_STATUS | LEAD_LENGTH | RES | VLOG_PARAM01 | REFLOW | BEHAVIORAL_MODEL | EST_PRICE | TEMP_RANGE | MANUFACTURER ;
+{========================================================================================}
+'2512RES' | 'RESC6432X76M' | '0.22' |'80-00R22-75'(!) = 'CRL2512-FW-R220ELF'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 0.22; 1%; +/-200PPM/DEGC; 1W'| '1W'         | '+/-200PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-00R22-75'| 'HQ(0):HBO(0):MPOC(0)' | 'N/A' | '2.20E-01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.8000)' | '-55 DEGC TO +125 DEGC' | 'BOURNS' 
+'2512RES' | 'RESC6432X76M' | '100'  |'80-0100R-65'(!) = 'CRCW2512100RFK'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 100; 1%; +/-100PPM/DEGC; 1W'| '1W'       | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'YES'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0100R-65'| 'HQ(439):HBO(0):MPOC(251)' | 'N/A' | '1.00E02' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.3210)' | '-55 DEGC TO +155 DEGC' | 'VISHAY DALE' 
+'2512RES' | 'RESC6432X76M' | '120'  |'80-0120R-65'(!) = 'CRCW2512120RFK'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 120; 1%; +/-100PPM/DEGC; 1W'| '1W'         | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0120R-65'| 'HQ(438):HBO(98):MPOC(615)' | 'N/A' | '1.20E02' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0460)' | '-55 DEGC TO +155 DEGC' | 'VISHAY DALE' 
+'2512RES' | 'RESC6432X76M' | '121'  |'80-0121R-91'(!) = 'RK73H3ALTE1210F'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 121; 1%; +/-100PPM/DEGC; 1W'| '1W'         | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |'AEC-Q200'|  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0121R-91'| 'HQ(0):HBO(70):MPOC(155)' | 'N/A' | '1.21E02' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.3000)' | '-55 DEGC TO +155 DEGC' | 'KOA SPEER ELECTRONICS INC.' 
+'2512RES' | 'RESC6432X76M' | '130'  |'80-0130R-65'(!) = 'CRCW2512130RFK; RK73B3ALTE131J'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 130; 1%; +/-100PPM/DEGC; 1W'| '1W'         | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0130R-65'| 'HQ(18):HBO(115):MPOC(1918)' | 'N/A' | '1.30E02' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.0440)' | '-55 DEGC TO +155 DEGC' |'VISHAY DALE;KOA SPEER ELECTRONICS'
+'2512RES' | 'RESC6432X76M' | '61.9' |'80-061R9-65'(!) = 'CRCW251261R9FK; ERJ-1TNF61R9U'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 61.9; 1%; +/-100PPM/DEGC; 1W'| '1W'         | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-061R9-65'| 'HQ(85):HBO(1043):MPOC(471)' | 'N/A' | '6.19E01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.1233)' | '-55 DEGC TO +155 DEGC' |'VISHAY DALE;PANASONIC'
+'2512RES' | 'RESC6432X76M' | '90.9' |'80-090R9-65'(!) = 'CRCW251290R9FK'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 90.9; 1%; +/-100PPM/DEGC; 1W'| '1W'       | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-090R9-65'| 'HQ(150):HBO(0):MPOC(0)' | 'N/A' | '9.09E01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.1233)' | '-55 DEGC TO +155 DEGC' | 'VISHAY DALE' 
+'2512RES' | 'RESC6432X76M' | '91'   |'80-0091R-65'(!) = 'ERJ-1TNF91R0U'| 'SMT (2512)' | 'THICK FILM' | '1%'      |'RES; SMT (2512); 91; 1%; +/-100PPM/DEGC; 1W'| '1W'         | '+/-100PPM/DEGC' | 'Y' | 'ACTIVE' |  'NO'  |  'NO'  |'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=80-0091R-65'| 'HQ(0):HBO(52):MPOC(71)' | 'N/A' | '9.10E01' | 'RES:INTEGER' | '-' | 'TRUE' | '($0.3395)' | '-55 DEGC TO +125 DEGC' | 'VISHAY DALE' 
+
+END_PART
+
+END.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

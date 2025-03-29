@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TF13BA-6S'
+
+{========================================================================================}
+:'PACK_TYPE'  |'JEDEC_TYPE'           |'VALUE'           |'MAXINV'              = 'MFG_PART_NUMBER'    |'MANUFACTURER'              |'PIN_COUNT'    |'PITCH'     |'TOLERANCE'    |'DESCRIPTION'                                                                                                   |'VOLTAGE_RATING'    |'TEMP_RANGE'               |'BOM'    |'LEAD_LENGTH'    |'STATUS'             |'AUTOMOTIVE'    |'SAP_STATUS'    |'DATASHEET_URL'                                                                             |'EST_STOCK_STATUS'        |'REFLOW'    |'BEHAVIORAL_MODEL'    |'EST_PRICE'    |'MATING_CONNECTOR'    |'REC_BOARD_THICKNESS'    ;
+{========================================================================================}
+'SMD'  		|  'HRSC_TF13BA-6S-0_4SH'  		|  'TF13BA-6S-0.4SH'  		|  'EH111000005235'(!) = 'TF13BA-6S-0.4SH'  	|  'HIROSE ELECTRIC CO LTD'  	|  '6'  	|  '0.40MM'  	|  'N/A'  	|  'CONNECTOR; FEMALE; SMT; TF13BA SERIES; FPC/FFC CONNECTOR; 6PINS'  	|  '+50V'  	|  '-55 DEGC TO +85 DEGC'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'YES'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000005235'  	|  'HQ(0):HBO(0):MPOC(0)'  	|  '-'  	|  'FALSE'  	|  '($0.9900)'  	|  'TF13BA-6S-0.4SH_EDGE'  	|  '0.0079" +/- 0.0012"'
+'SMD_EDGE'  		|  'HRSC_TF13BA-6S-0_4SH_EDGE'  		|  'TF13BA-6S-0.4SH_EDGE'  		|  'N/A'(!) = 'TF13BA-6S-0.4SH_EDGE'  	|  'HIROSE ELECTRIC CO LTD'  	|  '6'  	|  '0.40MM'  	|  'N/A'  	|  'CONNECTOR; MALE; SMT; TF13BA SERIES; FPC/FFC CONNECTOR; 6PINS; NOTE: EDGE CONNECTOR TO BE USED AT THE END OF A FLEX BOARD'  	|  'N/A'  	|  'N/A'  	|  'Y'  	|  'N/A'  	|  'EVKIT-NOT FOR TEST'  	|  'NO'  	|  'NO'  	|  'http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000005235'  	|  'HQ(00):HBO(00):MPOC(00)'  	|  '-'  	|  'FALSE'  	|  '($00)'  	|  'TF13BA-6S-0.4SH'  	|  '0.0079" +/- 0.0012"'
+
+END_PART
+
+END.

@@ -1,0 +1,194 @@
+(Cell	ek_max30208
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/29/18,20:33:45)
+
+			(User	Ryan.Cabreza)
+
+			(Path	default_17_2_lib.ek_max30208)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	08/29/18,20:33:45)
+
+					(User	Ryan.Cabreza)
+
+					(Path	default_17_2_lib.ek_max30208)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f1fc128f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/18,20:33:45)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.ek_max30208)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dda03e2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bca407af)
+
+			(Primitives	1
+
+				(Primitive	EK_MAX30208_LGA10
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/18,20:33:45)
+
+							(User	Ryan.Cabreza)
+
+							(Path	default_17_2_lib.ek_max30208)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EK_MAX30208
+
+							(PackType	EK_MAX30208_LGA10)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	MAX_90-100101)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e6303de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.2-2016 S042 (3720979))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001be403ac)
+
+)
+
